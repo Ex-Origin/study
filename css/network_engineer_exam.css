@@ -1,0 +1,23 @@
+.block h4 {
+    margin-bottom: 0.5em;
+}
+
+.p1,
+.p2,
+.question {
+    margin-top: 0.5em;
+}
+
+.e {
+    color: aquamarine;
+}
+
+.q {
+    color: darkorange;
+}
+
+.a {
+    color: maroon;
+}
+
+
