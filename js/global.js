@@ -88,7 +88,7 @@ $(function (o) {
 });
 
 $(function() {
-    $( "#help-option" ).tooltip({
+    $( ".my-option-a" ).tooltip({
         show: {
           effect: "slideDown",
           delay: 250
