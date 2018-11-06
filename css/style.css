@@ -142,10 +142,15 @@ ul.container-nav li a:hover {
 
 .choice{
     padding: 0.3em;
+    padding-left: 1.5em;
     margin-top: 0.3em;
     margin-bottom: 0.3em;
     background-color: azure;
     border-radius: 3px;
+}
+
+.header_choice{
+    padding-left: 0.3em;
 }
 
 .choice:hover{
@@ -167,6 +172,7 @@ ul.container-nav li a:hover {
 
 .baidu{
     padding: 0.1em 0.5em;
+    margin-left: 1em;
 }
 /* .baidu { 
     color: blue;

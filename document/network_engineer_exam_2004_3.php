@@ -46,11 +46,11 @@
             <p class="question">中断响应时间是指 （3） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%AD%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E6%98%AF%E6%8C%87%20%EF%BC%883%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（3） </span>A．从中断处理开始到中断处理结束所用的时间
             </p>
-            <p class="choice false">&emsp;&emsp;B．从发出中断请求到中断处理结束所用的时间
+            <p class="choice false">B．从发出中断请求到中断处理结束所用的时间
             </p>
-            <p class="choice true">&emsp;&emsp;C．从发出中断请求到进入中断处理所用的时间
+            <p class="choice true">C．从发出中断请求到进入中断处理所用的时间
             </p>
-            <p class="choice false">&emsp;&emsp;D．从中断处理结束到再次中断请求的时间</p>
+            <p class="choice false">D．从中断处理结束到再次中断请求的时间</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -77,11 +77,11 @@
             <p class="question">在单指令流多数据流计算机（SIMD）中，各处理单元必须 （5） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8%E5%8D%95%E6%8C%87%E4%BB%A4%E6%B5%81%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%B5%81%E8%AE%A1%E7%AE%97%E6%9C%BA%EF%BC%88SIMD%EF%BC%89%E4%B8%AD%EF%BC%8C%E5%90%84%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83%E5%BF%85%E9%A1%BB%20%EF%BC%885%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（5） </span>A．以同步方式，在同一时间内执行不同的指令
             </p>
-            <p class="choice true">&emsp;&emsp;B．以同步方式，在同一时间内执行同一条指令
+            <p class="choice true">B．以同步方式，在同一时间内执行同一条指令
             </p>
-            <p class="choice false">&emsp;&emsp;C．以异步方式，在同一时间内执行不同的指令
+            <p class="choice false">C．以异步方式，在同一时间内执行不同的指令
             </p>
-            <p class="choice false">&emsp;&emsp;D．以异步方式，在同一时间内执行同一条指令</p>
+            <p class="choice false">D．以异步方式，在同一时间内执行同一条指令</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -205,10 +205,10 @@
             <p class="question">在结构化分析方法中，数据字典是重要的文档。对加工的描述是数据字典的组成内容之一，常用的加工描述方法 （14） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E5%9C%A8%E7%BB%93%E6%9E%84%E5%8C%96%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%E4%B8%AD%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8%E6%98%AF%E9%87%8D%E8%A6%81%E7%9A%84%E6%96%87%E6%A1%A3%E3%80%82%E5%AF%B9%E5%8A%A0%E5%B7%A5%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%98%AF%E6%95%B0%E6%8D%AE%E5%AD%97%E5%85%B8%E7%9A%84%E7%BB%84%E6%88%90%E5%86%85%E5%AE%B9%E4%B9%8B%E4%B8%80%EF%BC%8C%E5%B8%B8%E7%94%A8%E7%9A%84%E5%8A%A0%E5%B7%A5%E6%8F%8F%E8%BF%B0%E6%96%B9%E6%B3%95%20%EF%BC%8814%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（14） </span>A．只有结构化语言</p>
-            <p class="choice false">&emsp;&emsp;B．有结构化语言和判定树
+            <p class="choice false">B．有结构化语言和判定树
             </p>
-            <p class="choice true">&emsp;&emsp;C．有结构化语言、判定树和判定表</p>
-            <p class="choice false">&emsp;&emsp;D．有判定树和判定表</p>
+            <p class="choice true">C．有结构化语言、判定树和判定表</p>
+            <p class="choice false">D．有判定树和判定表</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -268,10 +268,10 @@
                 <img id="i1" />
             </div>
             <p class="choice header_choice false"><span class="number">（18） </span>A．简单的双宿主主机结构</p>
-            <p class="choice true">&emsp;&emsp;B．单DMZ防火墙结构
+            <p class="choice true">B．单DMZ防火墙结构
             </p>
-            <p class="choice false">&emsp;&emsp;C．带有屏蔽路由器的单网段防火墙结构</p>
-            <p class="choice false">&emsp;&emsp;D．双DMZ防火墙结构</p>
+            <p class="choice false">C．带有屏蔽路由器的单网段防火墙结构</p>
+            <p class="choice false">D．双DMZ防火墙结构</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -282,11 +282,11 @@
             <p class="question">电子商务交易必须具备抗抵赖性，目的在于防止 （19） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E4%BA%A4%E6%98%93%E5%BF%85%E9%A1%BB%E5%85%B7%E5%A4%87%E6%8A%97%E6%8A%B5%E8%B5%96%E6%80%A7%EF%BC%8C%E7%9B%AE%E7%9A%84%E5%9C%A8%E4%BA%8E%E9%98%B2%E6%AD%A2%20%EF%BC%8819%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（19） </span>A．一个实体假装成另一个实体
             </p>
-            <p class="choice true">&emsp;&emsp;B．参与此交易的一方否认曾经发生过此次交易
+            <p class="choice true">B．参与此交易的一方否认曾经发生过此次交易
             </p>
-            <p class="choice false">&emsp;&emsp;C．他人对数据进行非授权的修改、破坏
+            <p class="choice false">C．他人对数据进行非授权的修改、破坏
             </p>
-            <p class="choice false">&emsp;&emsp;D．信息从被监视的通信过程中泄漏出去</p>
+            <p class="choice false">D．信息从被监视的通信过程中泄漏出去</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -313,11 +313,11 @@
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%94%B2%EF%BC%8E%E4%B9%99%E4%B8%A4%E4%BA%BA%E5%9C%A8%E5%90%8C%E4%B8%80%E6%97%B6%E9%97%B4%E5%B0%B1%E5%90%8C%E6%A0%B7%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E6%8F%90%E4%BA%A4%E4%BA%86%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%EF%BC%8C%E4%B8%93%E5%88%A9%E5%B1%80%E5%B0%86%E5%88%86%E5%88%AB%E5%90%91%E5%90%84%E7%94%B3%E8%AF%B7%E4%BA%BA%E9%80%9A%E6%8A%A5%E6%9C%89%E5%85%B3%E6%83%85%E5%86%B5%EF%BC%8C%E5%B9%B6%E6%8F%90%E5%87%BA%E5%A4%9A%E7%A7%8D%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%E7%9A%84%E5%8A%9E%E6%B3%95%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%87%87%E7%94%A8%20%EF%BC%8821%EF%BC%89%20%E7%9A%84%E5%8A%9E%E6%B3%95%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（21） </span>A．两申请人作为一件申请的共同申请人
             </p>
-            <p class="choice false">&emsp;&emsp;B．其中一方放弃权利并从另一方得到适当的补偿
+            <p class="choice false">B．其中一方放弃权利并从另一方得到适当的补偿
             </p>
-            <p class="choice false">&emsp;&emsp;C．两件申请都不授予专利权
+            <p class="choice false">C．两件申请都不授予专利权
             </p>
-            <p class="choice true">&emsp;&emsp;D．两件申请都授予专利权</p>
+            <p class="choice true">D．两件申请都授予专利权</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -455,10 +455,10 @@
         <div class="block">
             <p class="question">HDLC是一种 （32） 协议。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=HDLC%E6%98%AF%E4%B8%80%E7%A7%8D%20%EF%BC%8832%EF%BC%89%20%E5%8D%8F%E8%AE%AE%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（32） </span>A．面向比特的同步链路控制</p>
-            <p class="choice false">&emsp;&emsp;B．面向字节计数的异步链路控制
+            <p class="choice false">B．面向字节计数的异步链路控制
             </p>
-            <p class="choice false">&emsp;&emsp;C．面向字符的同步链路控制</p>
-            <p class="choice false">&emsp;&emsp;D．面向比特流的异步链路控制</p>
+            <p class="choice false">C．面向字符的同步链路控制</p>
+            <p class="choice false">D．面向比特流的异步链路控制</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -469,10 +469,10 @@
             <p class="question">帧中继网络没有采用流量控制机制，只有拥塞控制功能。采用显式信令控制时，如果LAP-D帧中的FECN比特置1，则表示 （33） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E5%B8%A7%E4%B8%AD%E7%BB%A7%E7%BD%91%E7%BB%9C%E6%B2%A1%E6%9C%89%E9%87%87%E7%94%A8%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E6%9C%BA%E5%88%B6%EF%BC%8C%E5%8F%AA%E6%9C%89%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8A%9F%E8%83%BD%E3%80%82%E9%87%87%E7%94%A8%E6%98%BE%E5%BC%8F%E4%BF%A1%E4%BB%A4%E6%8E%A7%E5%88%B6%E6%97%B6%EF%BC%8C%E5%A6%82%E6%9E%9CLAP-D%E5%B8%A7%E4%B8%AD%E7%9A%84FECN%E6%AF%94%E7%89%B9%E7%BD%AE1%EF%BC%8C%E5%88%99%E8%A1%A8%E7%A4%BA%20%EF%BC%8833%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（33） </span>A．在帧的传送方向上出现了拥塞</p>
-            <p class="choice false">&emsp;&emsp;B．在与帧传送相反的方向上出现了拥塞
+            <p class="choice false">B．在与帧传送相反的方向上出现了拥塞
             </p>
-            <p class="choice false">&emsp;&emsp;C．在两个传送方向上同时出现了拥塞</p>
-            <p class="choice false">&emsp;&emsp;D．没有出现拥塞</p>
+            <p class="choice false">C．在两个传送方向上同时出现了拥塞</p>
+            <p class="choice false">D．没有出现拥塞</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -504,11 +504,11 @@
                     target="_blank" href="https://www.baidu.com/s?wd=IP%E4%BA%A4%E6%8D%A2%E6%98%AF%E4%B8%80%E7%A7%8D%E5%88%A9%E7%94%A8%E4%BA%A4%E6%8D%A2%E7%A1%AC%E4%BB%B6%E5%BF%AB%E9%80%9F%E4%BC%A0%E9%80%81IP%E5%88%86%E7%BB%84%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%82%E4%B8%80%E5%8F%B0IP%E4%BA%A4%E6%8D%A2%E6%9C%BA%E7%94%B1%20%EF%BC%8835%EF%BC%89%20%E4%B8%89%E9%83%A8%E5%88%86%E7%BB%84%E6%88%90%E3%80%82IP%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%88%9D%E5%A7%8B%E5%8C%96%E5%90%8E%E4%B8%BA%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%89%A9%E7%90%86%E8%BF%9E%E6%8E%A5%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E9%BB%98%E8%AE%A4%E7%9A%84%20%EF%BC%8836%EF%BC%89%20%EF%BC%8C%E7%9B%B8%E9%82%BB%E7%9A%84IP%E4%BA%A4%E6%8D%A2%E6%9C%BA%E9%80%9A%E8%BF%87%E8%BF%99%E4%BA%9B%E9%BB%98%E8%AE%A4%E9%80%9A%E4%BF%A1%E4%BA%A4%E6%8D%A2%E8%B7%AF%E7%94%B1%E4%BF%A1%E6%81%AF%E5%92%8C%E6%95%B0%E6%8D%AE%E5%88%86%E7%BB%84%EF%BC%8C%E4%B8%BA%E4%BA%86%E8%BF%9B%E8%A1%8C%E7%AC%AC%E4%B8%89%E5%B1%82%E8%B7%AF%E7%94%B1%E9%80%89%E6%8B%A9%EF%BC%8CIP%E4%BA%A4%E6%8D%A2%E6%8E%A7%E5%88%B6%E5%99%A8%E5%BF%85%E9%A1%BB%E6%A0%B9%E6%8D%AE%20%EF%BC%8837%EF%BC%89%20%E7%AD%89%E4%BF%A1%E6%81%AF%E5%AF%B9%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E6%B5%81%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB%E5%B9%B6%E5%8A%A0%E4%B8%8A%E6%95%B0%E6%8D%AE%E6%B5%81%E6%8F%8F%E8%BF%B0%E7%AC%A6%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（35） </span>A．ATM交换模块、IP交换控制器和交换机管理协议
             </p>
-            <p class="choice false">&emsp;&emsp;B．RF交换模块、IP交换控制器和路由器管理协议
+            <p class="choice false">B．RF交换模块、IP交换控制器和路由器管理协议
             </p>
-            <p class="choice false">&emsp;&emsp;C．X.25交换模块、IP交换控制器和交换机管理协议
+            <p class="choice false">C．X.25交换模块、IP交换控制器和交换机管理协议
             </p>
-            <p class="choice false">&emsp;&emsp;D．IPX交换模块、IP交换控制器和路由器管理协议</p>
+            <p class="choice false">D．IPX交换模块、IP交换控制器和路由器管理协议</p>
             <p class="one-line-choice"><span class="number">（36）</span>
                 <span class="choice false">A．帧中继交换通道</span>
                 <span class="choice true">B．ATM交换通道</span>
@@ -516,10 +516,10 @@
                 <span class="choice false">D．IPX交换通道</span>
             </p>
             <p class="choice header_choice false"><span class="number">（37） </span>A．源和目标IP地址．MAC地址</p>
-            <p class="choice false">&emsp;&emsp;B．源IP地址．ATMVPI/VCI
+            <p class="choice false">B．源IP地址．ATMVPI/VCI
             </p>
-            <p class="choice false">&emsp;&emsp;C．目标IP地址．TCP/UDP端口号</p>
-            <p class="choice true">&emsp;&emsp;D．源和目标IP地址．TCP/UDP端口号</p>
+            <p class="choice false">C．目标IP地址．TCP/UDP端口号</p>
+            <p class="choice true">D．源和目标IP地址．TCP/UDP端口号</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -530,10 +530,10 @@
             <p class="question">IETF定义的多协议标记交换（MPLS）是一种第三层交换技术，MPLS网络由 （38） 组成，负责为网络流添加/删除标记的是 （39） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=IETF%E5%AE%9A%E4%B9%89%E7%9A%84%E5%A4%9A%E5%8D%8F%E8%AE%AE%E6%A0%87%E8%AE%B0%E4%BA%A4%E6%8D%A2%EF%BC%88MPLS%EF%BC%89%E6%98%AF%E4%B8%80%E7%A7%8D%E7%AC%AC%E4%B8%89%E5%B1%82%E4%BA%A4%E6%8D%A2%E6%8A%80%E6%9C%AF%EF%BC%8CMPLS%E7%BD%91%E7%BB%9C%E7%94%B1%20%EF%BC%8838%EF%BC%89%20%E7%BB%84%E6%88%90%EF%BC%8C%E8%B4%9F%E8%B4%A3%E4%B8%BA%E7%BD%91%E7%BB%9C%E6%B5%81%E6%B7%BB%E5%8A%A0/%E5%88%A0%E9%99%A4%E6%A0%87%E8%AE%B0%E7%9A%84%E6%98%AF%20%EF%BC%8839%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（38） </span>A．标记交换路由器和标记边缘路由器</p>
-            <p class="choice false">&emsp;&emsp;B．标记分发路由器和标记边缘路由器
+            <p class="choice false">B．标记分发路由器和标记边缘路由器
             </p>
-            <p class="choice false">&emsp;&emsp;C．标记分发路由器和标记传送路由器</p>
-            <p class="choice false">&emsp;&emsp;D．标记传送路由器和标记交换路由器</p>
+            <p class="choice false">C．标记分发路由器和标记传送路由器</p>
+            <p class="choice false">D．标记传送路由器和标记交换路由器</p>
             <p class="one-line-choice"><span class="number">（39）</span>
                 <span class="choice false">A．标记分发路由器</span>
                 <span class="choice true">B．标记边缘路由器
@@ -559,22 +559,22 @@
                 <span class="choice false">D．为WINS提供路由</span>
             </p>
             <p class="choice header_choice false"><span class="number">（41） </span>A．/etc/networks/dhcpd</p>
-            <p class="choice false">&emsp;&emsp;B．/usr/sbin/dhcp
+            <p class="choice false">B．/usr/sbin/dhcp
             </p>
-            <p class="choice false">&emsp;&emsp;C．/etc/networks/dhcp</p>
-            <p class="choice true">&emsp;&emsp;D．/usr/sbin/dhcpd</p>
+            <p class="choice false">C．/etc/networks/dhcp</p>
+            <p class="choice true">D．/usr/sbin/dhcpd</p>
             <p class="choice header_choice true"><span class="number">（42） </span>A．/etc/dhcpd.conf</p>
-            <p class="choice false">&emsp;&emsp;B．/etc/dhcp.conf
+            <p class="choice false">B．/etc/dhcp.conf
             </p>
-            <p class="choice false">&emsp;&emsp;C．/networks/dhcpd.conf</p>
-            <p class="choice false">&emsp;&emsp;D．/networks/dhcp.conf</p>
+            <p class="choice false">C．/networks/dhcpd.conf</p>
+            <p class="choice false">D．/networks/dhcp.conf</p>
             <p class="choice header_choice true"><span class="number">（43） </span>A．touch/var/state/dhcp/dhcpd.leases
             </p>
-            <p class="choice false">&emsp;&emsp;B．address/var/state/dhcp/dhcpd.leases
+            <p class="choice false">B．address/var/state/dhcp/dhcpd.leases
             </p>
-            <p class="choice false">&emsp;&emsp;C．nat/var/state/dhcp/dhcp.leases
+            <p class="choice false">C．nat/var/state/dhcp/dhcp.leases
             </p>
-            <p class="choice false">&emsp;&emsp;D．resolve/var/state/dhcp/dhcp.leases</p>
+            <p class="choice false">D．resolve/var/state/dhcp/dhcp.leases</p>
             <p class="one-line-choice"><span class="number">（44）</span>
                 <span class="choice false">A．ipconfig</span>
                 <span class="choice false">B．touch</span>
@@ -597,11 +597,11 @@
                     href="https://www.baidu.com/s?wd=%E5%9C%A8%E5%88%86%E5%B8%83%E5%BC%8F%E7%8E%AF%E5%A2%83%E4%B8%AD%E5%AE%9E%E7%8E%B0%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%A1%88%EF%BC%8C%E4%BB%A5%E4%B8%8B%E9%80%89%E9%A1%B9%E4%B8%AD%E6%9C%80%E4%B8%8D%E5%AE%89%E5%85%A8%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AE%A4%E8%AF%81%E6%96%B9%E6%A1%88%E6%98%AF%20%EF%BC%8845%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（45） </span>A．用户发送口令，由通信对方指定共享密钥
             </p>
-            <p class="choice false">&emsp;&emsp;B．用户发送口令，由智能卡产生解密密钥
+            <p class="choice false">B．用户发送口令，由智能卡产生解密密钥
             </p>
-            <p class="choice false">&emsp;&emsp;C．用户从KDC获取会话密钥
+            <p class="choice false">C．用户从KDC获取会话密钥
             </p>
-            <p class="choice false">&emsp;&emsp;D．用户从CA获取数字证书</p>
+            <p class="choice false">D．用户从CA获取数字证书</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -639,11 +639,11 @@
             </p>
             <p class="choice header_choice false"><span class="number">（50） </span>A．UA可使用自己的证书直接与UB进行安全通信
             </p>
-            <p class="choice true">&emsp;&emsp;B．UA通过一个证书链可以与UB进行安全通信
+            <p class="choice true">B．UA通过一个证书链可以与UB进行安全通信
             </p>
-            <p class="choice false">&emsp;&emsp;C．UA和UB还须向对方的发证机构申请证书，才能进行安全通信
+            <p class="choice false">C．UA和UB还须向对方的发证机构申请证书，才能进行安全通信
             </p>
-            <p class="choice false">&emsp;&emsp;D．UA和UB都要向国家发证机构申请证书，才能进行安全通信</p>
+            <p class="choice false">D．UA和UB都要向国家发证机构申请证书，才能进行安全通信</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -657,17 +657,17 @@
             <p class="question">下面有关NTFS文件系统优点的描述中， （51） 是不正确的。要把FAT32分区转换为NTFS分区，并且保留原分区中的所有文件，不可行的方法是 （52） 。&emsp;<a
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E6%9C%89%E5%85%B3NTFS%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%BC%98%E7%82%B9%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%20%EF%BC%8851%EF%BC%89%20%E6%98%AF%E4%B8%8D%E6%AD%A3%E7%A1%AE%E7%9A%84%E3%80%82%E8%A6%81%E6%8A%8AFAT32%E5%88%86%E5%8C%BA%E8%BD%AC%E6%8D%A2%E4%B8%BANTFS%E5%88%86%E5%8C%BA%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%BF%9D%E7%95%99%E5%8E%9F%E5%88%86%E5%8C%BA%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E6%96%87%E4%BB%B6%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%A1%8C%E7%9A%84%E6%96%B9%E6%B3%95%E6%98%AF%20%EF%BC%8852%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（51） </span>A．NTFS可自动地修复磁盘错误</p>
-            <p class="choice false">&emsp;&emsp;B．NTFS可防止未授权用户访问文件
+            <p class="choice false">B．NTFS可防止未授权用户访问文件
             </p>
-            <p class="choice true">&emsp;&emsp;C．NTFS没有磁盘空间限制</p>
-            <p class="choice false">&emsp;&emsp;D．NTFS支持文件压缩功能</p>
+            <p class="choice true">C．NTFS没有磁盘空间限制</p>
+            <p class="choice false">D．NTFS支持文件压缩功能</p>
             <p class="choice header_choice false"><span class="number">（52） </span>A．利用磁盘分区管理软件同时实现FAT32到NTFS的无损转换和文件拷贝
             </p>
-            <p class="choice true">&emsp;&emsp;B．先把FAT32分区格式化为NTFS分区，再把盘上的文件转换为NTFS文件
+            <p class="choice true">B．先把FAT32分区格式化为NTFS分区，再把盘上的文件转换为NTFS文件
             </p>
-            <p class="choice false">&emsp;&emsp;C．先把分区中的文件拷贝出来，然后把分区格式化为NTFS，再把文件拷回去
+            <p class="choice false">C．先把分区中的文件拷贝出来，然后把分区格式化为NTFS，再把文件拷回去
             </p>
-            <p class="choice false">&emsp;&emsp;D．利用分区转换工具“Convert.exe”将FAT32转换为NTFS并实现文件拷贝</p>
+            <p class="choice false">D．利用分区转换工具“Convert.exe”将FAT32转换为NTFS并实现文件拷贝</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -684,9 +684,9 @@
                 <span class="choice false">D．winipconfig</span>
             </p>
             <p class="choice header_choice false"><span class="number">（54） </span>A．ping127.0.0.0</p>
-            <p class="choice true">&emsp;&emsp;B．ping127.0.0.1</p>
-            <p class="choice false">&emsp;&emsp;C．ping127.0.1.1</p>
-            <p class="choice false">&emsp;&emsp;D．ping127.1.1.1</p>
+            <p class="choice true">B．ping127.0.0.1</p>
+            <p class="choice false">C．ping127.0.1.1</p>
+            <p class="choice false">D．ping127.1.1.1</p>
             <p class="one-line-choice"><span class="number">（55）</span>
                 <span class="choice false">A．netstat–s</span>
                 <span class="choice false">B．netstat–o</span>
@@ -710,11 +710,11 @@
             </p>
             <p class="choice header_choice true"><span class="number">（57） </span>A．通过微机的串口连接交换机的控制台端口
             </p>
-            <p class="choice false">&emsp;&emsp;B．通过Telnet程序远程访问交换机
+            <p class="choice false">B．通过Telnet程序远程访问交换机
             </p>
-            <p class="choice false">&emsp;&emsp;C．通过浏览器访问指定IP地址的交换机
+            <p class="choice false">C．通过浏览器访问指定IP地址的交换机
             </p>
-            <p class="choice false">&emsp;&emsp;D．通过运行SNMP协议的网管软件访问交换机</p>
+            <p class="choice false">D．通过运行SNMP协议的网管软件访问交换机</p>
             <p class="one-line-choice"><span class="number">（58）</span>
                 <span class="choice false">A．connect</span>
                 <span class="choice false">B．control</span>
@@ -790,10 +790,10 @@
             <p class="question">将双绞线制作成交叉线（一端按EIA/TIA 568A线序，另一端按EIA/TIA 568B线序），该双绞线连接的两个设备可为 （64） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E5%B0%86%E5%8F%8C%E7%BB%9E%E7%BA%BF%E5%88%B6%E4%BD%9C%E6%88%90%E4%BA%A4%E5%8F%89%E7%BA%BF%EF%BC%88%E4%B8%80%E7%AB%AF%E6%8C%89EIA/TIA%20568A%E7%BA%BF%E5%BA%8F%EF%BC%8C%E5%8F%A6%E4%B8%80%E7%AB%AF%E6%8C%89EIA/TIA%20568B%E7%BA%BF%E5%BA%8F%EF%BC%89%EF%BC%8C%E8%AF%A5%E5%8F%8C%E7%BB%9E%E7%BA%BF%E8%BF%9E%E6%8E%A5%E7%9A%84%E4%B8%A4%E4%B8%AA%E8%AE%BE%E5%A4%87%E5%8F%AF%E4%B8%BA%20%EF%BC%8864%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（64） </span>A．网卡与网卡</p>
-            <p class="choice false">&emsp;&emsp;B．网卡与交换机
+            <p class="choice false">B．网卡与交换机
             </p>
-            <p class="choice false">&emsp;&emsp;C．网卡与集线器</p>
-            <p class="choice false">&emsp;&emsp;D．交换机的以太口与下一级交换机的UPLINK口</p>
+            <p class="choice false">C．网卡与集线器</p>
+            <p class="choice false">D．交换机的以太口与下一级交换机的UPLINK口</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">

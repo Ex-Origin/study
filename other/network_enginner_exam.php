@@ -34,6 +34,7 @@
             <li><a href="../../document/network_engineer_exam_2009_1.php">2009年上半年 网络工程师 上午试卷</a></li>
             <li><a href="../../document/network_engineer_exam_2009_3.php">2009年下半年 网络工程师 上午试卷</a></li>
             <li><a href="../../document/network_engineer_exam_2010_1.php">2010年上半年 网络工程师 上午试卷</a></li>
+            <li><a href="../../document/network_engineer_exam_2018_1.php">2018年上半年 网络工程师 上午试卷</a></li>
         </ul>
     </div>
     <!-- <?php

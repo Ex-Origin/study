@@ -24,11 +24,11 @@
             <p class="question">以下关于CPU的叙述中，错误的是 （1） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E5%85%B3%E4%BA%8ECPU%E7%9A%84%E5%8F%99%E8%BF%B0%E4%B8%AD%EF%BC%8C%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%881%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（1） </span>A．CPU产生每条指令的操作信号并将操作信号送往相应的部件进行控制
             </p>
-            <p class="choice true">&emsp;&emsp;B．程序控制器PC除了存放指令地址，也可以临时存储算术/逻辑运算结果
+            <p class="choice true">B．程序控制器PC除了存放指令地址，也可以临时存储算术/逻辑运算结果
             </p>
-            <p class="choice false">&emsp;&emsp;C．CPU中的控制器决定计算机运行过程的自动化
+            <p class="choice false">C．CPU中的控制器决定计算机运行过程的自动化
             </p>
-            <p class="choice false">&emsp;&emsp;D．指令译码器是CPU控制器中的部件</p>
+            <p class="choice false">D．指令译码器是CPU控制器中的部件</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -40,11 +40,11 @@
                 Computer，精简指令集计算机）的叙述中，错误的是 （2） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E5%85%B3%E4%BA%8ECISC%EF%BC%88Complex%20Instruction%20Set%20Computer%EF%BC%8C%E5%A4%8D%E6%9D%82%E6%8C%87%E4%BB%A4%E9%9B%86%E8%AE%A1%E7%AE%97%E6%9C%BA%EF%BC%89%E5%92%8CRISC%EF%BC%88Reduced%20Instruction%20Set%20Computer%EF%BC%8C%E7%B2%BE%E7%AE%80%E6%8C%87%E4%BB%A4%E9%9B%86%E8%AE%A1%E7%AE%97%E6%9C%BA%EF%BC%89%E7%9A%84%E5%8F%99%E8%BF%B0%E4%B8%AD%EF%BC%8C%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%882%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（2） </span>A．在CISC中，其复杂指令都采用硬布线逻辑来执行
             </p>
-            <p class="choice false">&emsp;&emsp;B．采用CISC技术的CPU，其芯片设计复杂度更高
+            <p class="choice false">B．采用CISC技术的CPU，其芯片设计复杂度更高
             </p>
-            <p class="choice false">&emsp;&emsp;C．在RISC中，更适合采用硬布线逻辑执行指令
+            <p class="choice false">C．在RISC中，更适合采用硬布线逻辑执行指令
             </p>
-            <p class="choice false">&emsp;&emsp;D．采用RISC技术，指令系统中的指令种类和寻址方式更少</p>
+            <p class="choice false">D．采用RISC技术，指令系统中的指令种类和寻址方式更少</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -55,11 +55,11 @@
             <p class="question">以下关于校验码的叙述中，正确的是 （3） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E5%85%B3%E4%BA%8E%E6%A0%A1%E9%AA%8C%E7%A0%81%E7%9A%84%E5%8F%99%E8%BF%B0%E4%B8%AD%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%883%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（3） </span>A．海明码利用多组数位的奇偶性来检错和纠错
             </p>
-            <p class="choice false">&emsp;&emsp;B．海明码的码距必须大于等于1
+            <p class="choice false">B．海明码的码距必须大于等于1
             </p>
-            <p class="choice false">&emsp;&emsp;C．循环冗余校验码具有很强的检错和纠错能力
+            <p class="choice false">C．循环冗余校验码具有很强的检错和纠错能力
             </p>
-            <p class="choice false">&emsp;&emsp;D．循环冗余校验码的码距必定为1</p>
+            <p class="choice false">D．循环冗余校验码的码距必定为1</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -74,11 +74,11 @@
             <p class="question">以下关于Cache的叙述中，正确的是 （4） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E5%85%B3%E4%BA%8ECache%E7%9A%84%E5%8F%99%E8%BF%B0%E4%B8%AD%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%884%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（4） </span>A．在容量确定的情况下，替换算法的时间复杂度是影响Cache命中率的关键因素
             </p>
-            <p class="choice true">&emsp;&emsp;B．Cache的设计思想是在合理成本下提高命中率
+            <p class="choice true">B．Cache的设计思想是在合理成本下提高命中率
             </p>
-            <p class="choice false">&emsp;&emsp;C．Cache的设计目标是容量尽可能与主存容量相等
+            <p class="choice false">C．Cache的设计目标是容量尽可能与主存容量相等
             </p>
-            <p class="choice false">&emsp;&emsp;D．CPU中的Cache容量应该大于CPU之外的Cache容量</p>
+            <p class="choice false">D．CPU中的Cache容量应该大于CPU之外的Cache容量</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -136,18 +136,18 @@
                 §§&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%98%AF%E8%A3%B8%E6%9C%BA%E4%B8%8A%E7%9A%84%E7%AC%AC%E4%B8%80%E5%B1%82%E8%BD%AF%E4%BB%B6%EF%BC%8C%E5%85%B6%E4%BB%96%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6%EF%BC%88%E5%A6%82%20%EF%BC%888%EF%BC%89%20%E7%AD%89%EF%BC%89%E5%92%8C%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E9%83%BD%E6%98%AF%E5%BB%BA%E7%AB%8B%E5%9C%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%E4%B8%8A%E7%9A%84%E3%80%82%E4%B8%8B%E5%9B%BE%E2%91%A0%E2%91%A1%E2%91%A2%E5%88%86%E5%88%AB%E8%A1%A8%E7%A4%BA%20%EF%BC%889%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
             <p class="choice header_choice false"><span class="number">（8） </span>A．编译程序、财务软件和数据库管理系统软件
             </p>
-            <p class="choice true">&emsp;&emsp;B．汇编程序、编译程序和java解释器
+            <p class="choice true">B．汇编程序、编译程序和java解释器
             </p>
-            <p class="choice false">&emsp;&emsp;C．编译程序、数据库管理系统软件和汽车防盗程序
+            <p class="choice false">C．编译程序、数据库管理系统软件和汽车防盗程序
             </p>
-            <p class="choice false">&emsp;&emsp;D．语言处理程序、办公管理软件和气象预报软件</p>
+            <p class="choice false">D．语言处理程序、办公管理软件和气象预报软件</p>
             <p class="choice header_choice false"><span class="number">（9） </span>A．应用软件开发者、最终用户和系统软件开发者
             </p>
-            <p class="choice false">&emsp;&emsp;B．应用软件开发者、系统软件开发者和最终用户
+            <p class="choice false">B．应用软件开发者、系统软件开发者和最终用户
             </p>
-            <p class="choice false">&emsp;&emsp;C．最终用户、系统软件开发者和应用软件开发者
+            <p class="choice false">C．最终用户、系统软件开发者和应用软件开发者
             </p>
-            <p class="choice true">&emsp;&emsp;D．最终用户、应用软件开发者和系统软件开发者</p>
+            <p class="choice true">D．最终用户、应用软件开发者和系统软件开发者</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -230,11 +230,11 @@
                 &emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%9B%BE%E8%A1%A8%E7%A4%BA%E4%BA%86%E6%9F%90%E4%B8%AA%E6%95%B0%E6%8D%AE%E7%9A%84%E4%B8%A4%E7%A7%8D%E7%BC%96%E7%A0%81%EF%BC%8C%E8%BF%99%E4%B8%A4%E7%A7%8D%E7%BC%96%E7%A0%81%E5%88%86%E5%88%AB%E6%98%AF%20%EF%BC%8815%EF%BC%89%20%EF%BC%8C%E8%AF%A5%E6%95%B0%E6%8D%AE%E6%98%AF%20%EF%BC%8816%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%3Cbr/%3E%0A%C2%A7%C2%A7%3Cbr/%3E%0A">百度</a></p>
             <p class="choice header_choice false"><span class="number">（15） </span>A．X为差分曼彻斯特码，Y为曼彻斯特码
             </p>
-            <p class="choice false">&emsp;&emsp;B．X为差分曼彻斯特码，Y为双极性码
+            <p class="choice false">B．X为差分曼彻斯特码，Y为双极性码
             </p>
-            <p class="choice true">&emsp;&emsp;C．X为曼彻斯特码，Y为差分曼彻斯特码
+            <p class="choice true">C．X为曼彻斯特码，Y为差分曼彻斯特码
             </p>
-            <p class="choice false">&emsp;&emsp;D．X为曼彻斯特码，Y为不归零码</p>
+            <p class="choice false">D．X为曼彻斯特码，Y为不归零码</p>
             <p class="one-line-choice"><span class="number">（16）</span>
                 <span class="choice false">A．010011110</span>
                 <span class="choice true">B．010011010
@@ -309,18 +309,18 @@
                 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=RIPv2%E5%AF%B9RIPv1%E5%8D%8F%E8%AE%AE%E6%9C%89%E4%B8%89%E6%96%B9%E9%9D%A2%E7%9A%84%E6%94%B9%E8%BF%9B%E3%80%82%E4%B8%8B%E9%9D%A2%E7%9A%84%E9%80%89%E9%A1%B9%E4%B8%AD%EF%BC%8CRIPv2%E7%9A%84%E7%89%B9%E5%88%AB%E4%B8%8D%E5%8C%85%E6%8B%AC%20%EF%BC%8822%EF%BC%89%20%E3%80%82%E5%9C%A8RIPv2%E4%B8%AD%EF%BC%8C%E5%8F%AF%E4%BB%A5%E9%87%87%E7%94%A8%E6%B0%B4%E5%B9%B3%E5%88%86%E5%89%B2%E6%B3%95%E6%9D%A5%E6%B6%88%E9%99%A4%E8%B7%AF%E7%94%B1%E5%BE%AA%E7%8E%AF%EF%BC%8C%E8%BF%99%E7%A7%8D%E6%96%B9%E6%B3%95%E6%98%AF%E6%8C%87%20%EF%BC%8823%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（22） </span>A．使用组播而不是广播来传播路由更新报文
             </p>
-            <p class="choice false">&emsp;&emsp;B．采用了触发更新机制来加速路由收敛
+            <p class="choice false">B．采用了触发更新机制来加速路由收敛
             </p>
-            <p class="choice false">&emsp;&emsp;C．使用经过散列的口令来限制路由信息的传播
+            <p class="choice false">C．使用经过散列的口令来限制路由信息的传播
             </p>
-            <p class="choice true">&emsp;&emsp;D．支持动态网络地址变换来使用私网地址</p>
+            <p class="choice true">D．支持动态网络地址变换来使用私网地址</p>
             <p class="choice header_choice false"><span class="number">（23） </span>A．不能向自己的邻居发送路由信息
             </p>
-            <p class="choice true">&emsp;&emsp;B．不要把一条路由信息发送给该信息的来源
+            <p class="choice true">B．不要把一条路由信息发送给该信息的来源
             </p>
-            <p class="choice false">&emsp;&emsp;C．路由信息只能发送给左右两边的路由器
+            <p class="choice false">C．路由信息只能发送给左右两边的路由器
             </p>
-            <p class="choice false">&emsp;&emsp;D．路由信息必须用组播而不是广播方式发送</p>
+            <p class="choice false">D．路由信息必须用组播而不是广播方式发送</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -354,20 +354,20 @@
                 则该PC的IP地址为 （27） ，默认网关的IP地址为 （28） 。该PC不能接入Internet的原因可能是 （29） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E6%9F%90PC%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%85%A5Internet%EF%BC%8C%E6%AD%A4%E6%97%B6%E9%87%87%E7%94%A8%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7%E6%8D%95%E8%8E%B7%E7%9A%84%E4%BB%A5%E5%A4%AA%E7%BD%91%E6%8E%A5%E5%8F%A3%E5%8F%91%E5%87%BA%E7%9A%84%E4%BF%A1%E6%81%AF%E5%A6%82%E4%B8%8B%EF%BC%9A%3Cbr/%3E%0A%C2%A7%C2%A7%3Cbr/%3E%0A%E5%88%99%E8%AF%A5PC%E7%9A%84IP%E5%9C%B0%E5%9D%80%E4%B8%BA%20%EF%BC%8827%EF%BC%89%20%EF%BC%8C%E9%BB%98%E8%AE%A4%E7%BD%91%E5%85%B3%E7%9A%84IP%E5%9C%B0%E5%9D%80%E4%B8%BA%20%EF%BC%8828%EF%BC%89%20%E3%80%82%E8%AF%A5PC%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%85%A5Internet%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%8F%AF%E8%83%BD%E6%98%AF%20%EF%BC%8829%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（27） </span>A．213.127.115.31</p>
-            <p class="choice false">&emsp;&emsp;B．213.127.115.255
+            <p class="choice false">B．213.127.115.255
             </p>
-            <p class="choice false">&emsp;&emsp;C．213.127.115.254</p>
-            <p class="choice false">&emsp;&emsp;D．224.1.1.1</p>
+            <p class="choice false">C．213.127.115.254</p>
+            <p class="choice false">D．224.1.1.1</p>
             <p class="choice header_choice false"><span class="number">（28） </span>A．213.127.115.31</p>
-            <p class="choice false">&emsp;&emsp;B．213.127.115.255
+            <p class="choice false">B．213.127.115.255
             </p>
-            <p class="choice true">&emsp;&emsp;C．213.127.115.254</p>
-            <p class="choice false">&emsp;&emsp;D．224.1.1.1</p>
+            <p class="choice true">C．213.127.115.254</p>
+            <p class="choice false">D．224.1.1.1</p>
             <p class="choice header_choice false"><span class="number">（29） </span>A．DNS解析错误</p>
-            <p class="choice false">&emsp;&emsp;B．TCP/IP协议安装错误
+            <p class="choice false">B．TCP/IP协议安装错误
             </p>
-            <p class="choice true">&emsp;&emsp;C．不能正常连接到网关</p>
-            <p class="choice false">&emsp;&emsp;D．DHCP服务器工作不正常</p>
+            <p class="choice true">C．不能正常连接到网关</p>
+            <p class="choice false">D．DHCP服务器工作不正常</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -391,10 +391,10 @@
                 <span class="choice false">D．bash</span>
             </p>
             <p class="choice header_choice true"><span class="number">（32） </span>A．xinetd是网络服务的守护进程</p>
-            <p class="choice false">&emsp;&emsp;B．xinetd是定时服务的守护进程
+            <p class="choice false">B．xinetd是定时服务的守护进程
             </p>
-            <p class="choice false">&emsp;&emsp;C．xinetd进程负责配置网络接口</p>
-            <p class="choice false">&emsp;&emsp;D．xinetd进程进程负责启动网卡</p>
+            <p class="choice false">C．xinetd进程负责配置网络接口</p>
+            <p class="choice false">D．xinetd进程进程负责启动网卡</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -452,16 +452,16 @@
                 命令后得到如下图所示的结果。如果要将目标地址为102.217.112.0.24的分组经102.217.115.1发出，需增加一条路由，正确的命令为 （36） 。<br />
                 §§&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Windows%E4%B8%AD%E8%BF%90%E8%A1%8C%20%EF%BC%8835%EF%BC%89%20%E5%91%BD%E4%BB%A4%E5%90%8E%E5%BE%97%E5%88%B0%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E7%BB%93%E6%9E%9C%E3%80%82%E5%A6%82%E6%9E%9C%E8%A6%81%E5%B0%86%E7%9B%AE%E6%A0%87%E5%9C%B0%E5%9D%80%E4%B8%BA102.217.112.0.24%E7%9A%84%E5%88%86%E7%BB%84%E7%BB%8F102.217.115.1%E5%8F%91%E5%87%BA%EF%BC%8C%E9%9C%80%E5%A2%9E%E5%8A%A0%E4%B8%80%E6%9D%A1%E8%B7%AF%E7%94%B1%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%91%BD%E4%BB%A4%E4%B8%BA%20%EF%BC%8836%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
             <p class="choice header_choice false"><span class="number">（35） </span>A．ipconfig/renew</p>
-            <p class="choice false">&emsp;&emsp;B．ping</p>
-            <p class="choice false">&emsp;&emsp;C．nslookup</p>
-            <p class="choice true">&emsp;&emsp;D．routeprint</p>
+            <p class="choice false">B．ping</p>
+            <p class="choice false">C．nslookup</p>
+            <p class="choice true">D．routeprint</p>
             <p class="choice header_choice true"><span class="number">（36） </span>A．route add 102.217.112.0 mask 255.255.255.0 102.217.115.1
             </p>
-            <p class="choice false">&emsp;&emsp;B．route add 102.217.112.0 255.255.255.0 102.217.115.1
+            <p class="choice false">B．route add 102.217.112.0 255.255.255.0 102.217.115.1
             </p>
-            <p class="choice false">&emsp;&emsp;C．add route 102.217.112.0 255.255.255.0 102.217.115.1
+            <p class="choice false">C．add route 102.217.112.0 255.255.255.0 102.217.115.1
             </p>
-            <p class="choice false">&emsp;&emsp;D．add route 102.217.112.0 mask 255.255.255.0 102.217.115.1</p>
+            <p class="choice false">D．add route 102.217.112.0 mask 255.255.255.0 102.217.115.1</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -473,11 +473,11 @@
             <p class="question">下列关于Microsoft管理控制台（MMC）的说法中，错误的是 （37） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%88%97%E5%85%B3%E4%BA%8EMicrosoft%E7%AE%A1%E7%90%86%E6%8E%A7%E5%88%B6%E5%8F%B0%EF%BC%88MMC%EF%BC%89%E7%9A%84%E8%AF%B4%E6%B3%95%E4%B8%AD%EF%BC%8C%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8837%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（37） </span>A．MMC集成了用来管理网络、计算机、服务及其它系统组件的管理工具
             </p>
-            <p class="choice false">&emsp;&emsp;B．MMC创建、保存并打开管理工具单元
+            <p class="choice false">B．MMC创建、保存并打开管理工具单元
             </p>
-            <p class="choice false">&emsp;&emsp;C．MMC可以运行在WindowsXP和Windows2000操作系统上
+            <p class="choice false">C．MMC可以运行在WindowsXP和Windows2000操作系统上
             </p>
-            <p class="choice true">&emsp;&emsp;D．MMC是用来管理硬件、软件和Windows系统的网络组件</p>
+            <p class="choice true">D．MMC是用来管理硬件、软件和Windows系统的网络组件</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -548,10 +548,10 @@
         <div class="block">
             <p class="question">在下面4种病毒中， （42） 可以远程控制网络中的计算机。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%8B%E9%9D%A24%E7%A7%8D%E7%97%85%E6%AF%92%E4%B8%AD%EF%BC%8C%20%EF%BC%8842%EF%BC%89%20%E5%8F%AF%E4%BB%A5%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（42） </span>A．worm.Sasser.f</p>
-            <p class="choice false">&emsp;&emsp;B．Win32.CIH
+            <p class="choice false">B．Win32.CIH
             </p>
-            <p class="choice true">&emsp;&emsp;C．Trojan.qq3344</p>
-            <p class="choice false">&emsp;&emsp;D．Macro.Melissa</p>
+            <p class="choice true">C．Trojan.qq3344</p>
+            <p class="choice false">D．Macro.Melissa</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -565,11 +565,11 @@
             <p class="question">将ACL应用到路由器接口的命令时 （43） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%B0%86ACL%E5%BA%94%E7%94%A8%E5%88%B0%E8%B7%AF%E7%94%B1%E5%99%A8%E6%8E%A5%E5%8F%A3%E7%9A%84%E5%91%BD%E4%BB%A4%E6%97%B6%20%EF%BC%8843%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（43） </span>A．Router(config-if)#ipaccess-group10out
             </p>
-            <p class="choice false">&emsp;&emsp;B．Router(config-if)#applyaccss-list10out
+            <p class="choice false">B．Router(config-if)#applyaccss-list10out
             </p>
-            <p class="choice false">&emsp;&emsp;C．Router(config-if)#fixupaccess-list10out
+            <p class="choice false">C．Router(config-if)#fixupaccess-list10out
             </p>
-            <p class="choice false">&emsp;&emsp;D．Router(config-if)#routeaccess-group10out</p>
+            <p class="choice false">D．Router(config-if)#routeaccess-group10out</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -643,10 +643,10 @@
             <p class="question">某用户分配的网络地址为192.24.0.0~192.24.7.0，这个地址块可以用 （49） 表示，其中可以分配 （50） 个主机地址。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90%E7%94%A8%E6%88%B7%E5%88%86%E9%85%8D%E7%9A%84%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E4%B8%BA192.24.0.0%7E192.24.7.0%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%9C%B0%E5%9D%80%E5%9D%97%E5%8F%AF%E4%BB%A5%E7%94%A8%20%EF%BC%8849%EF%BC%89%20%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8F%AF%E4%BB%A5%E5%88%86%E9%85%8D%20%EF%BC%8850%EF%BC%89%20%E4%B8%AA%E4%B8%BB%E6%9C%BA%E5%9C%B0%E5%9D%80%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（49） </span>A．192.24.0.0/20</p>
-            <p class="choice true">&emsp;&emsp;B．192.24.0.0/21
+            <p class="choice true">B．192.24.0.0/21
             </p>
-            <p class="choice false">&emsp;&emsp;C．192.24.0.0/16</p>
-            <p class="choice false">&emsp;&emsp;D．192.24.0.0/24</p>
+            <p class="choice false">C．192.24.0.0/16</p>
+            <p class="choice false">D．192.24.0.0/24</p>
             <p class="one-line-choice"><span class="number">（50）</span>
                 <span class="choice true">A．2032</span>
                 <span class="choice false">B．2048</span>
@@ -667,10 +667,10 @@
             <p class="question">使用CIDR技术把4个C类网络220.117.12.0/24、220.117.13.0/24、220.117.14.0/24和220.117.15.0/24汇聚成一个超网，得到的地址是
                 （51） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BD%BF%E7%94%A8CIDR%E6%8A%80%E6%9C%AF%E6%8A%8A4%E4%B8%AAC%E7%B1%BB%E7%BD%91%E7%BB%9C220.117.12.0/24%E3%80%81220.117.13.0/24%E3%80%81220.117.14.0/24%E5%92%8C220.117.15.0/24%E6%B1%87%E8%81%9A%E6%88%90%E4%B8%80%E4%B8%AA%E8%B6%85%E7%BD%91%EF%BC%8C%E5%BE%97%E5%88%B0%E7%9A%84%E5%9C%B0%E5%9D%80%E6%98%AF%20%EF%BC%8851%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（51） </span>A．220.117.8.0/22</p>
-            <p class="choice true">&emsp;&emsp;B．220.117.12.0/22
+            <p class="choice true">B．220.117.12.0/22
             </p>
-            <p class="choice false">&emsp;&emsp;C．220.117.8.0/21</p>
-            <p class="choice false">&emsp;&emsp;D．220.117.12.0/21</p>
+            <p class="choice false">C．220.117.8.0/21</p>
+            <p class="choice false">D．220.117.12.0/21</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -681,10 +681,10 @@
             <p class="question">某公司网络的地址是200.16.192.0/18，划分成16个子网，下面的选项中，不属于这16个子网网址的是 （52） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90%E5%85%AC%E5%8F%B8%E7%BD%91%E7%BB%9C%E7%9A%84%E5%9C%B0%E5%9D%80%E6%98%AF200.16.192.0/18%EF%BC%8C%E5%88%92%E5%88%86%E6%88%9016%E4%B8%AA%E5%AD%90%E7%BD%91%EF%BC%8C%E4%B8%8B%E9%9D%A2%E7%9A%84%E9%80%89%E9%A1%B9%E4%B8%AD%EF%BC%8C%E4%B8%8D%E5%B1%9E%E4%BA%8E%E8%BF%9916%E4%B8%AA%E5%AD%90%E7%BD%91%E7%BD%91%E5%9D%80%E7%9A%84%E6%98%AF%20%EF%BC%8852%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（52） </span>A．200.16.236.0/22</p>
-            <p class="choice false">&emsp;&emsp;B．200.16.224.0/22
+            <p class="choice false">B．200.16.224.0/22
             </p>
-            <p class="choice false">&emsp;&emsp;C．200.16.208.0/22</p>
-            <p class="choice true">&emsp;&emsp;D．200.16.254.0/22</p>
+            <p class="choice false">C．200.16.208.0/22</p>
+            <p class="choice true">D．200.16.254.0/22</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -695,10 +695,10 @@
             <p class="question">IPv6地址12AB:0000:0000:CD30:0000:0000:0000:0000/60可以表示成各种简写形式，下面的选项中，写法正确的是 （53） 。&emsp;<a
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=IPv6%E5%9C%B0%E5%9D%8012AB%3A0000%3A0000%3ACD30%3A0000%3A0000%3A0000%3A0000/60%E5%8F%AF%E4%BB%A5%E8%A1%A8%E7%A4%BA%E6%88%90%E5%90%84%E7%A7%8D%E7%AE%80%E5%86%99%E5%BD%A2%E5%BC%8F%EF%BC%8C%E4%B8%8B%E9%9D%A2%E7%9A%84%E9%80%89%E9%A1%B9%E4%B8%AD%EF%BC%8C%E5%86%99%E6%B3%95%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8853%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（53） </span>A．12AB:0:0:CD30::/60</p>
-            <p class="choice false">&emsp;&emsp;B．12AB:0:0:CD3/60
+            <p class="choice false">B．12AB:0:0:CD3/60
             </p>
-            <p class="choice false">&emsp;&emsp;C．12AB::CD30/60</p>
-            <p class="choice false">&emsp;&emsp;D．12AB::CD3/60</p>
+            <p class="choice false">C．12AB::CD30/60</p>
+            <p class="choice false">D．12AB::CD3/60</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -747,11 +747,11 @@
             <p class="question">下面关于帧中继网络的描述中，错误的是 （56） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E5%85%B3%E4%BA%8E%E5%B8%A7%E4%B8%AD%E7%BB%A7%E7%BD%91%E7%BB%9C%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8856%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（56） </span>A．用户的数据速率可以在一定的范围内变化
             </p>
-            <p class="choice false">&emsp;&emsp;B．既可以使用流式业务，又可以适应突发式业务
+            <p class="choice false">B．既可以使用流式业务，又可以适应突发式业务
             </p>
-            <p class="choice false">&emsp;&emsp;C．帧中继网可以提供永久虚电路和交换虚电路
+            <p class="choice false">C．帧中继网可以提供永久虚电路和交换虚电路
             </p>
-            <p class="choice true">&emsp;&emsp;D．帧中继虚电路建立在HDLC协议之上</p>
+            <p class="choice true">D．帧中继虚电路建立在HDLC协议之上</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -841,11 +841,11 @@
                     href="https://www.baidu.com/s?wd=CSMA/CD%E5%8D%8F%E8%AE%AE%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8%E5%A4%9A%E7%A7%8D%E7%9B%91%E5%90%AC%E7%AE%97%E6%B3%95%E6%9D%A5%E5%87%8F%E5%B0%8F%E5%8F%91%E9%80%81%E5%86%B2%E7%AA%81%E7%9A%84%E6%A6%82%E7%8E%87%EF%BC%8C%E4%B8%8B%E9%9D%A2%E5%85%B3%E4%BA%8E%E5%90%84%E7%A7%8D%E7%9B%91%E5%90%AC%E7%AE%97%E6%B3%95%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8861%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（61） </span>A．非坚持型监听算法有利于减少网络空闲时间
             </p>
-            <p class="choice false">&emsp;&emsp;B．坚持型监听算法有利于减少冲突的概率
+            <p class="choice false">B．坚持型监听算法有利于减少冲突的概率
             </p>
-            <p class="choice false">&emsp;&emsp;C．P坚持型监听算法无法减少网络的空闲时间
+            <p class="choice false">C．P坚持型监听算法无法减少网络的空闲时间
             </p>
-            <p class="choice true">&emsp;&emsp;D．坚持型监听算法能够及时抢占信道</p>
+            <p class="choice true">D．坚持型监听算法能够及时抢占信道</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -863,11 +863,11 @@
                 这个命令的作用是 （62） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Windows%E7%9A%84DOS%E7%AA%97%E5%8F%A3%E4%B8%AD%E9%94%AE%E5%85%A5%E5%91%BD%E4%BB%A4%3Cbr/%3E%0AC%3A%5C%3Enslookup%3Cbr/%3E%0ASet%20type%3Dptr%3Cbr/%3E%0A%3E211.151.91.165%3Cbr/%3E%0A%E8%BF%99%E4%B8%AA%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%20%EF%BC%8862%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（62） </span>A．查询211.151.91.165的邮件服务器信息
             </p>
-            <p class="choice true">&emsp;&emsp;B．查询211.151.91.165到域名的映射
+            <p class="choice true">B．查询211.151.91.165到域名的映射
             </p>
-            <p class="choice false">&emsp;&emsp;C．查询211.151.91.165的资源记录类型
+            <p class="choice false">C．查询211.151.91.165的资源记录类型
             </p>
-            <p class="choice false">&emsp;&emsp;D．显示211.151.91.165中各种可用的信息资源记录</p>
+            <p class="choice false">D．显示211.151.91.165中各种可用的信息资源记录</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -879,10 +879,10 @@
             <p class="question">在Windows的命令窗口中键入命令arp –s 10.0.0.80 00-AA-00-4F-2A-9C，这个命令的作用是 （63） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Windows%E7%9A%84%E5%91%BD%E4%BB%A4%E7%AA%97%E5%8F%A3%E4%B8%AD%E9%94%AE%E5%85%A5%E5%91%BD%E4%BB%A4arp%20%E2%80%93s%2010.0.0.80%2000-AA-00-4F-2A-9C%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%20%EF%BC%8863%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（63） </span>A．在ARP表中添加一个动态表项</p>
-            <p class="choice true">&emsp;&emsp;B．在ARP表中添加一个静态表项
+            <p class="choice true">B．在ARP表中添加一个静态表项
             </p>
-            <p class="choice false">&emsp;&emsp;C．在ARP表中删除一个表项</p>
-            <p class="choice false">&emsp;&emsp;D．在ARP表中修改一个表项</p>
+            <p class="choice false">C．在ARP表中删除一个表项</p>
+            <p class="choice false">D．在ARP表中修改一个表项</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -910,10 +910,10 @@
             <p class="question">IEEE 802.11采用了类似于802.3 CSMA/CD协议的CSMA/CA协议，之所以不采用CSMA/CD协议的原因是 （65） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=IEEE%20802.11%E9%87%87%E7%94%A8%E4%BA%86%E7%B1%BB%E4%BC%BC%E4%BA%8E802.3%20CSMA/CD%E5%8D%8F%E8%AE%AE%E7%9A%84CSMA/CA%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%B9%8B%E6%89%80%E4%BB%A5%E4%B8%8D%E9%87%87%E7%94%A8CSMA/CD%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%20%EF%BC%8865%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（65） </span>A．CSMA/CA协议的效率更高</p>
-            <p class="choice false">&emsp;&emsp;B．CSMA/CD协议的开销更大
+            <p class="choice false">B．CSMA/CD协议的开销更大
             </p>
-            <p class="choice true">&emsp;&emsp;C．为了解决隐蔽终端问题</p>
-            <p class="choice false">&emsp;&emsp;D．为了引进其他业务</p>
+            <p class="choice true">C．为了解决隐蔽终端问题</p>
+            <p class="choice false">D．为了引进其他业务</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -927,11 +927,11 @@
             <p class="question">建筑物综合布线系统中的工作区子系统是指 （66） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%BB%BA%E7%AD%91%E7%89%A9%E7%BB%BC%E5%90%88%E5%B8%83%E7%BA%BF%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8C%BA%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%98%AF%E6%8C%87%20%EF%BC%8866%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（66） </span>A．由终端到信息插座之间的连线系统
             </p>
-            <p class="choice false">&emsp;&emsp;B．楼层接线间的配线架和线缆系统
+            <p class="choice false">B．楼层接线间的配线架和线缆系统
             </p>
-            <p class="choice false">&emsp;&emsp;C．各楼层设备之间的互连系统
+            <p class="choice false">C．各楼层设备之间的互连系统
             </p>
-            <p class="choice false">&emsp;&emsp;D．连接各个建筑物的通信系统</p>
+            <p class="choice false">D．连接各个建筑物的通信系统</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -975,11 +975,11 @@
             <p class="question">下列关于网络核心层的描述中，正确的是 （69） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%88%97%E5%85%B3%E4%BA%8E%E7%BD%91%E7%BB%9C%E6%A0%B8%E5%BF%83%E5%B1%82%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8869%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（69） </span>A．为了保障安全性，应该对分组进行尽可能多的处理
             </p>
-            <p class="choice true">&emsp;&emsp;B．将数据分组从一个区域高速地转发到另一个区域
+            <p class="choice true">B．将数据分组从一个区域高速地转发到另一个区域
             </p>
-            <p class="choice false">&emsp;&emsp;C．由多台二、三层交换机组成
+            <p class="choice false">C．由多台二、三层交换机组成
             </p>
-            <p class="choice false">&emsp;&emsp;D．提供多条路径来缓解通信瓶颈</p>
+            <p class="choice false">D．提供多条路径来缓解通信瓶颈</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -991,11 +991,11 @@
             <p class="question">网络系统设计过程中，物理网络设计阶段的任务是 （70） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E8%BF%87%E7%A8%8B%E4%B8%AD%EF%BC%8C%E7%89%A9%E7%90%86%E7%BD%91%E7%BB%9C%E8%AE%BE%E8%AE%A1%E9%98%B6%E6%AE%B5%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%98%AF%20%EF%BC%8870%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（70） </span>A．依据逻辑网络设计的要求，确定设备的具体物理分布和运行环境
             </p>
-            <p class="choice false">&emsp;&emsp;B．分析现有网络和新网络的各类资源分布，掌握网络所处的状态
+            <p class="choice false">B．分析现有网络和新网络的各类资源分布，掌握网络所处的状态
             </p>
-            <p class="choice false">&emsp;&emsp;C．根据需求规范和通信规范，实施资源分配和安全规划
+            <p class="choice false">C．根据需求规范和通信规范，实施资源分配和安全规划
             </p>
-            <p class="choice false">&emsp;&emsp;D．理解网络应该具有的功能和性能，最终设计出符合用户需求的网络</p>
+            <p class="choice false">D．理解网络应该具有的功能和性能，最终设计出符合用户需求的网络</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">

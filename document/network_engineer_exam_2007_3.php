@@ -71,11 +71,11 @@
             <p class="question">若某人持有盗版软件，但他本人确实不知道该软件是盗版的，则 （7） 承担侵权责任。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%8B%A5%E6%9F%90%E4%BA%BA%E6%8C%81%E6%9C%89%E7%9B%97%E7%89%88%E8%BD%AF%E4%BB%B6%EF%BC%8C%E4%BD%86%E4%BB%96%E6%9C%AC%E4%BA%BA%E7%A1%AE%E5%AE%9E%E4%B8%8D%E7%9F%A5%E9%81%93%E8%AF%A5%E8%BD%AF%E4%BB%B6%E6%98%AF%E7%9B%97%E7%89%88%E7%9A%84%EF%BC%8C%E5%88%99%20%EF%BC%887%EF%BC%89%20%E6%89%BF%E6%8B%85%E4%BE%B5%E6%9D%83%E8%B4%A3%E4%BB%BB%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（7） </span>A．应由该软件的持有者
             </p>
-            <p class="choice true">&emsp;&emsp;B．应由该软件的提供者
+            <p class="choice true">B．应由该软件的提供者
             </p>
-            <p class="choice false">&emsp;&emsp;C．应由该软件的提供者和持有者共同
+            <p class="choice false">C．应由该软件的提供者和持有者共同
             </p>
-            <p class="choice false">&emsp;&emsp;D．该软件的提供者和持有者都不</p>
+            <p class="choice false">D．该软件的提供者和持有者都不</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -153,11 +153,11 @@
             <p class="question">关于交换机，下面说法中错误的是 （12） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E4%BA%A4%E6%8D%A2%E6%9C%BA%EF%BC%8C%E4%B8%8B%E9%9D%A2%E8%AF%B4%E6%B3%95%E4%B8%AD%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8812%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（12） </span>A．以太网交换机根据MAC地址进行交换
             </p>
-            <p class="choice false">&emsp;&emsp;B．帧中继交换机根据虚电路号DLCI进行交换
+            <p class="choice false">B．帧中继交换机根据虚电路号DLCI进行交换
             </p>
-            <p class="choice false">&emsp;&emsp;C．三层交换机根据网络层地址进行转发，并根据MAC地址进行交换
+            <p class="choice false">C．三层交换机根据网络层地址进行转发，并根据MAC地址进行交换
             </p>
-            <p class="choice true">&emsp;&emsp;D．ATM交换机根据虚电路标识和MAC地址进行交换</p>
+            <p class="choice true">D．ATM交换机根据虚电路标识和MAC地址进行交换</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -168,11 +168,11 @@
             <p class="question">关于路由器，下列说法中正确的是 （13） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E8%B7%AF%E7%94%B1%E5%99%A8%EF%BC%8C%E4%B8%8B%E5%88%97%E8%AF%B4%E6%B3%95%E4%B8%AD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8813%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（13） </span>A．路由器处理的信息量比交换机少，因而转发速度比交换机快
             </p>
-            <p class="choice false">&emsp;&emsp;B．对于同一目标，路由器只提供延迟最小的最佳路由
+            <p class="choice false">B．对于同一目标，路由器只提供延迟最小的最佳路由
             </p>
-            <p class="choice true">&emsp;&emsp;C．通常的路由器可以支持多种网络层协议，并提供不同协议之间的分组转换
+            <p class="choice true">C．通常的路由器可以支持多种网络层协议，并提供不同协议之间的分组转换
             </p>
-            <p class="choice false">&emsp;&emsp;D．路由器不但能够根据逻辑地址进行转发，而且可以根据物理地址进行转发</p>
+            <p class="choice false">D．路由器不但能够根据逻辑地址进行转发，而且可以根据物理地址进行转发</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -185,11 +185,11 @@
             <p class="question">下面关于DPSK调制技术的描述，正确的是 （14） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E5%85%B3%E4%BA%8EDPSK%E8%B0%83%E5%88%B6%E6%8A%80%E6%9C%AF%E7%9A%84%E6%8F%8F%E8%BF%B0%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8814%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（14） </span>A．不同的码元幅度不同
             </p>
-            <p class="choice true">&emsp;&emsp;B．不同的码元前沿有不同的相位改变
+            <p class="choice true">B．不同的码元前沿有不同的相位改变
             </p>
-            <p class="choice false">&emsp;&emsp;C．由四种相位不同的码元组成
+            <p class="choice false">C．由四种相位不同的码元组成
             </p>
-            <p class="choice false">&emsp;&emsp;D．由不同的频率组成不同的码元</p>
+            <p class="choice false">D．由不同的频率组成不同的码元</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -282,10 +282,10 @@
         <div class="block">
             <p class="question">开放最短路径优先协议（OSPF）采用 （22） 算法计算最佳路由。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BC%98%E5%85%88%E5%8D%8F%E8%AE%AE%EF%BC%88OSPF%EF%BC%89%E9%87%87%E7%94%A8%20%EF%BC%8822%EF%BC%89%20%E7%AE%97%E6%B3%95%E8%AE%A1%E7%AE%97%E6%9C%80%E4%BD%B3%E8%B7%AF%E7%94%B1%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（22） </span>A．Dynamic-Search</p>
-            <p class="choice false">&emsp;&emsp;B．Bellman-Ford
+            <p class="choice false">B．Bellman-Ford
             </p>
-            <p class="choice true">&emsp;&emsp;C．Dijkstra</p>
-            <p class="choice false">&emsp;&emsp;D．Spanning-Tree</p>
+            <p class="choice true">C．Dijkstra</p>
+            <p class="choice false">D．Spanning-Tree</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -296,11 +296,11 @@
             <p class="question">关于OSPF协议，下列说法错误的是 （23） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8EOSPF%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%B8%8B%E5%88%97%E8%AF%B4%E6%B3%95%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8823%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（23） </span>A．OSPF的每个区域（Area）运行路由选择算法的一个实例
             </p>
-            <p class="choice false">&emsp;&emsp;B．OSPF路由器向各个活动端口组播Hello分组来发现邻居路由器
+            <p class="choice false">B．OSPF路由器向各个活动端口组播Hello分组来发现邻居路由器
             </p>
-            <p class="choice false">&emsp;&emsp;C．Hello协议还用来选择指定路由器，每个区域选出一个指定路由器
+            <p class="choice false">C．Hello协议还用来选择指定路由器，每个区域选出一个指定路由器
             </p>
-            <p class="choice true">&emsp;&emsp;D．OSPF协议默认的路由更新周期为30秒</p>
+            <p class="choice true">D．OSPF协议默认的路由更新周期为30秒</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -312,11 +312,11 @@
                     href="https://www.baidu.com/s?wd=%E5%9C%A8RIP%E5%8D%8F%E8%AE%AE%E4%B8%AD%EF%BC%8C%E5%8F%AF%E4%BB%A5%E9%87%87%E7%94%A8%E6%B0%B4%E5%B9%B3%E5%88%86%E5%89%B2%E6%B3%95%EF%BC%88Split%20Horizon%EF%BC%89%E8%A7%A3%E5%86%B3%E8%B7%AF%E7%94%B1%E7%8E%AF%E8%B7%AF%E9%97%AE%E9%A2%98%EF%BC%8C%E4%B8%8B%E9%9D%A2%E7%9A%84%E8%AF%B4%E6%B3%95%E4%B8%AD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8824%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（24） </span>A．把网络分割成不同的区域以减少路由循环
             </p>
-            <p class="choice true">&emsp;&emsp;B．不要把从一个邻居学习到的路由再发送回该邻居
+            <p class="choice true">B．不要把从一个邻居学习到的路由再发送回该邻居
             </p>
-            <p class="choice false">&emsp;&emsp;C．设置邻居之间的路由度量为无限大
+            <p class="choice false">C．设置邻居之间的路由度量为无限大
             </p>
-            <p class="choice false">&emsp;&emsp;D．路由器必须把整个路由表发送给自己的邻居</p>
+            <p class="choice false">D．路由器必须把整个路由表发送给自己的邻居</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -327,11 +327,11 @@
             <p class="question">关于链路状态协议与距离矢量协议的区别，以下说法中错误的是 （25） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E9%93%BE%E8%B7%AF%E7%8A%B6%E6%80%81%E5%8D%8F%E8%AE%AE%E4%B8%8E%E8%B7%9D%E7%A6%BB%E7%9F%A2%E9%87%8F%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%BB%A5%E4%B8%8B%E8%AF%B4%E6%B3%95%E4%B8%AD%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8825%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（25） </span>A．链路状态协议周期性地发布路由信息，而距离矢量协议在网络拓扑发生变化时发布路由信息
             </p>
-            <p class="choice false">&emsp;&emsp;B．链路状态协议由网络内部指定的路由器发布路由信息，而距离矢量协议的所有路由器都发布路由信息
+            <p class="choice false">B．链路状态协议由网络内部指定的路由器发布路由信息，而距离矢量协议的所有路由器都发布路由信息
             </p>
-            <p class="choice false">&emsp;&emsp;C．链路状态协议采用组播方式发布路由信息，而距离矢量协议以广播方式发布路由信息
+            <p class="choice false">C．链路状态协议采用组播方式发布路由信息，而距离矢量协议以广播方式发布路由信息
             </p>
-            <p class="choice false">&emsp;&emsp;D．链路状态协议发布的组播报文要求应答，这种通信方式比不要求应答的广播通信可靠</p>
+            <p class="choice false">D．链路状态协议发布的组播报文要求应答，这种通信方式比不要求应答的广播通信可靠</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -342,11 +342,11 @@
             <p class="question">关于自治系统（Autonomous System，AS），以下说法错误的是 （26） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%85%B3%E4%BA%8E%E8%87%AA%E6%B2%BB%E7%B3%BB%E7%BB%9F%EF%BC%88Autonomous%20System%EF%BC%8CAS%EF%BC%89%EF%BC%8C%E4%BB%A5%E4%B8%8B%E8%AF%B4%E6%B3%95%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8826%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（26） </span>A．AS是由某一管理部门统一控制的一组网络
             </p>
-            <p class="choice false">&emsp;&emsp;B．AS的标识是唯一的16位编号
+            <p class="choice false">B．AS的标识是唯一的16位编号
             </p>
-            <p class="choice false">&emsp;&emsp;C．在AS内部采用相同的路由技术，实现统一的路由策略
+            <p class="choice false">C．在AS内部采用相同的路由技术，实现统一的路由策略
             </p>
-            <p class="choice true">&emsp;&emsp;D．如果一个网络要从Internet获取路由信息，可以使用自定义的AS编号</p>
+            <p class="choice true">D．如果一个网络要从Internet获取路由信息，可以使用自定义的AS编号</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -394,10 +394,10 @@
                 <span class="choice false">D．nslookup</span>
             </p>
             <p class="choice header_choice false"><span class="number">（30） </span>A．查看当前TCP/IP配置信息</p>
-            <p class="choice false">&emsp;&emsp;B．测试与目的主机的连通性
+            <p class="choice false">B．测试与目的主机的连通性
             </p>
-            <p class="choice true">&emsp;&emsp;C．显示当前所有连接及状态信息</p>
-            <p class="choice false">&emsp;&emsp;D．查看当前DNS服务器</p>
+            <p class="choice true">C．显示当前所有连接及状态信息</p>
+            <p class="choice false">D．查看当前DNS服务器</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -414,10 +414,10 @@
             <p class="question">要使Samba服务器在网上邻居中出现的主机为smbserver，其配置文件smb.conf中应包含 （31） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E8%A6%81%E4%BD%BFSamba%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%A8%E7%BD%91%E4%B8%8A%E9%82%BB%E5%B1%85%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E4%B8%BB%E6%9C%BA%E4%B8%BAsmbserver%EF%BC%8C%E5%85%B6%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6smb.conf%E4%B8%AD%E5%BA%94%E5%8C%85%E5%90%AB%20%EF%BC%8831%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（31） </span>A．workgroup=smbserver</p>
-            <p class="choice true">&emsp;&emsp;B．netbiosname=smbserver
+            <p class="choice true">B．netbiosname=smbserver
             </p>
-            <p class="choice false">&emsp;&emsp;C．serverstring=smbserver</p>
-            <p class="choice false">&emsp;&emsp;D．guestaccount=smbserver</p>
+            <p class="choice false">C．serverstring=smbserver</p>
+            <p class="choice false">D．guestaccount=smbserver</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -445,15 +445,15 @@
                 &lt;/VirtualHost&gt;&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90Apache%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6httpd.conf%E5%8C%85%E5%90%AB%E5%A6%82%E4%B8%8B%E6%89%80%E7%A4%BA%E9%85%8D%E7%BD%AE%E9%A1%B9%E3%80%82%E5%9C%A8%20%EF%BC%8832%EF%BC%89%20%E5%A4%84%E9%80%89%E6%8B%A9%E5%90%88%E9%80%82%E7%9A%84%E9%80%89%E9%A1%B9%EF%BC%8C%E4%BD%BF%E5%BE%97%E7%94%A8%E6%88%B7%E5%8F%AF%E9%80%9A%E8%BF%87http%3A//www.test.cn%E8%AE%BF%E9%97%AE%E5%88%B0%E8%AF%A5Apache%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9B%E5%BD%93%E7%94%A8%E6%88%B7%E8%AE%BF%E9%97%AEhttp%3A//111.25.4.30%3A80%E6%97%B6%EF%BC%8C%E4%BC%9A%E8%AE%BF%E9%97%AE%E5%88%B0%20%EF%BC%8833%EF%BC%89%20%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E3%80%82%3Cbr/%3E%0AName%20VirtualHost%20111.25.4.30%3A80%3Cbr/%3E%0A%3CVirtualHost%20111.25.4.30%3A80%3E%3Cbr/%3E%0AServerName%20www.othertest.com%3Cbr/%3E%0ADocumentRoot%20/www/othertest%3Cbr/%3E%0A%3C/VirtualHost%3E%3Cbr/%3E%0A%3CVirtualHost%20111.25.4.30%3A80%3E%3Cbr/%3E%0AServerName%20%EF%BC%8832%EF%BC%89%3Cbr/%3E%0ADocumentRoot%20/www/otherdate%3Cbr/%3E%0A%3C/VirtualHost%3E%3Cbr/%3E%0A%3CVirtualHost%20111.25.4.30%3A80%3E%3Cbr/%3E%0AServerName%20www.test.com%3Cbr/%3E%0AServerAlias%20test.com%20%2A.test.com%3Cbr/%3E%0ADocumentRoot%20/www/test%3Cbr/%3E%0A%3C/VirtualHost%3E">百度</a>
             </p>
             <p class="choice header_choice false"><span class="number">（32） </span>A．www.othertest.com</p>
-            <p class="choice false">&emsp;&emsp;B．www.test.com
+            <p class="choice false">B．www.test.com
             </p>
-            <p class="choice true">&emsp;&emsp;C．www.test.cn</p>
-            <p class="choice false">&emsp;&emsp;D．ftp.test.com</p>
+            <p class="choice true">C．www.test.cn</p>
+            <p class="choice false">D．ftp.test.com</p>
             <p class="choice header_choice true"><span class="number">（33） </span>A．www.othertest.com</p>
-            <p class="choice false">&emsp;&emsp;B．www.test.com
+            <p class="choice false">B．www.test.com
             </p>
-            <p class="choice false">&emsp;&emsp;C．www.test.cn</p>
-            <p class="choice false">&emsp;&emsp;D．ftp.test.com</p>
+            <p class="choice false">C．www.test.cn</p>
+            <p class="choice false">D．ftp.test.com</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -473,11 +473,11 @@
             </p>
             <p class="choice header_choice false"><span class="number">（35） </span>A．只能够配置在c:\inetpub\wwwroot上
             </p>
-            <p class="choice false">&emsp;&emsp;B．只能够配置在本地磁盘上
+            <p class="choice false">B．只能够配置在本地磁盘上
             </p>
-            <p class="choice false">&emsp;&emsp;C．只能够配置在联网的其他计算机上
+            <p class="choice false">C．只能够配置在联网的其他计算机上
             </p>
-            <p class="choice true">&emsp;&emsp;D．既能够配置在本地的磁盘，也能配置在联网的其它计算机上</p>
+            <p class="choice true">D．既能够配置在本地的磁盘，也能配置在联网的其它计算机上</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -516,11 +516,11 @@
                 （38） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90DHCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E5%9C%B0%E5%9D%80%E6%B1%A0%E8%8C%83%E5%9B%B4%E4%B8%BA192.36.96.101%7E192.36.96.150%EF%BC%8C%E8%AF%A5%E7%BD%91%E6%AE%B5%E4%B8%8B%E6%9F%90Windows%E5%B7%A5%E4%BD%9C%E7%AB%99%E5%90%AF%E5%8A%A8%E5%90%8E%EF%BC%8C%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%BE%97%E7%9A%84IP%E5%9C%B0%E5%9D%80%E6%98%AF169.254.220.167%EF%BC%8C%E8%BF%99%E6%98%AF%E5%9B%A0%E4%B8%BA%20%EF%BC%8838%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（38） </span>A．DHCP服务器提供保留的IP地址
             </p>
-            <p class="choice true">&emsp;&emsp;B．DHCP服务器不工作
+            <p class="choice true">B．DHCP服务器不工作
             </p>
-            <p class="choice false">&emsp;&emsp;C．DHCP服务器设置租约时间太长
+            <p class="choice false">C．DHCP服务器设置租约时间太长
             </p>
-            <p class="choice false">&emsp;&emsp;D．工作站接到了网段内其他DHCP服务器提供的地址</p>
+            <p class="choice false">D．工作站接到了网段内其他DHCP服务器提供的地址</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -531,11 +531,11 @@
             <p class="question">以下关于FTP和TFTP描述中，正确的是 （39） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E5%85%B3%E4%BA%8EFTP%E5%92%8CTFTP%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8839%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（39） </span>A．FTP和TFTP都基于TCP协议
             </p>
-            <p class="choice false">&emsp;&emsp;B．FTP和TFTP都基于UDP协议
+            <p class="choice false">B．FTP和TFTP都基于UDP协议
             </p>
-            <p class="choice true">&emsp;&emsp;C．FTP基于TCP协议，TFTP基于UDP协议
+            <p class="choice true">C．FTP基于TCP协议，TFTP基于UDP协议
             </p>
-            <p class="choice false">&emsp;&emsp;D．FTP基于UDP协议，TFTP基于TCP协议</p>
+            <p class="choice false">D．FTP基于UDP协议，TFTP基于TCP协议</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -610,11 +610,11 @@
                     href="https://www.baidu.com/s?wd=%E5%9C%A8%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E4%B8%AD%E8%A6%81%E9%98%B2%E6%8A%A4%E5%90%84%E7%A7%8D%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E3%80%82%E5%9C%A8SNMPv3%E4%B8%AD%EF%BC%8C%E4%B8%8D%E5%BF%85%E8%A6%81%E6%88%96%E6%97%A0%E6%B3%95%E9%98%B2%E6%8A%A4%E7%9A%84%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E6%98%AF%20%EF%BC%8846%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（46） </span>A．篡改管理信息：通过改变传输中的SNMP报文实施未经授权的管理操作
             </p>
-            <p class="choice true">&emsp;&emsp;B．通信分析：第三者分析管理实体之间的通信规律，从而获取管理信息
+            <p class="choice true">B．通信分析：第三者分析管理实体之间的通信规律，从而获取管理信息
             </p>
-            <p class="choice false">&emsp;&emsp;C．假冒合法用户：未经授权的用户冒充授权用户，企图实施管理操作
+            <p class="choice false">C．假冒合法用户：未经授权的用户冒充授权用户，企图实施管理操作
             </p>
-            <p class="choice false">&emsp;&emsp;D．消息泄露：SNMP引擎之间交换的信息被第三者偷听</p>
+            <p class="choice false">D．消息泄露：SNMP引擎之间交换的信息被第三者偷听</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -649,11 +649,11 @@
             <p class="question">下面关于几个网络管理工具的描述中，错误的是 （49） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E5%85%B3%E4%BA%8E%E5%87%A0%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E7%9A%84%E6%8F%8F%E8%BF%B0%E4%B8%AD%EF%BC%8C%E9%94%99%E8%AF%AF%E7%9A%84%E6%98%AF%20%EF%BC%8849%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（49） </span>A．netstat可用于显示IP、TCP、UDP、ICMP等协议的统计数据
             </p>
-            <p class="choice false">&emsp;&emsp;B．sniffer能够使网络接口处于杂收模式，从而可截获网络上传输的分组
+            <p class="choice false">B．sniffer能够使网络接口处于杂收模式，从而可截获网络上传输的分组
             </p>
-            <p class="choice true">&emsp;&emsp;C．winipcfg采用MS-DOS工作方式显示网络适配器和主机的有关信息
+            <p class="choice true">C．winipcfg采用MS-DOS工作方式显示网络适配器和主机的有关信息
             </p>
-            <p class="choice false">&emsp;&emsp;D．tracert可以发现数据包到达目标主机所经过的路由器和到达时间</p>
+            <p class="choice false">D．tracert可以发现数据包到达目标主机所经过的路由器和到达时间</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -664,11 +664,11 @@
             <p class="question">在Windows XP中用事件查看器查看日志文件，可看到的日志包括 （50） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Windows%20XP%E4%B8%AD%E7%94%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E7%9C%8B%E5%99%A8%E6%9F%A5%E7%9C%8B%E6%97%A5%E5%BF%97%E6%96%87%E4%BB%B6%EF%BC%8C%E5%8F%AF%E7%9C%8B%E5%88%B0%E7%9A%84%E6%97%A5%E5%BF%97%E5%8C%85%E6%8B%AC%20%EF%BC%8850%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（50） </span>A．用户访问日志、安全性日志和系统日志
             </p>
-            <p class="choice true">&emsp;&emsp;B．应用程序日志、安全性日志和系统日志
+            <p class="choice true">B．应用程序日志、安全性日志和系统日志
             </p>
-            <p class="choice false">&emsp;&emsp;C．网络攻击日志、安全性日志和记帐日志
+            <p class="choice false">C．网络攻击日志、安全性日志和记帐日志
             </p>
-            <p class="choice false">&emsp;&emsp;D．网络连接日志、安全性日志和服务日志</p>
+            <p class="choice false">D．网络连接日志、安全性日志和服务日志</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -679,10 +679,10 @@
             <p class="question">有4个子网：10.1.201.0/24、10.1.203.0/24、10.1.207.0/24和10.1.199.0/24，经路由汇聚后得到的网络地址是 （51）
                 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9C%894%E4%B8%AA%E5%AD%90%E7%BD%91%EF%BC%9A10.1.201.0/24%E3%80%8110.1.203.0/24%E3%80%8110.1.207.0/24%E5%92%8C10.1.199.0/24%EF%BC%8C%E7%BB%8F%E8%B7%AF%E7%94%B1%E6%B1%87%E8%81%9A%E5%90%8E%E5%BE%97%E5%88%B0%E7%9A%84%E7%BD%91%E7%BB%9C%E5%9C%B0%E5%9D%80%E6%98%AF%20%EF%BC%8851%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice true"><span class="number">（51） </span>A．10.1.192.0/20</p>
-            <p class="choice false">&emsp;&emsp;B．10.1.192.0/21
+            <p class="choice false">B．10.1.192.0/21
             </p>
-            <p class="choice false">&emsp;&emsp;C．10.1.200.0/21</p>
-            <p class="choice false">&emsp;&emsp;D．10.1.224.0/20</p>
+            <p class="choice false">C．10.1.200.0/21</p>
+            <p class="choice false">D．10.1.224.0/20</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -699,11 +699,11 @@
             <p class="question">私网地址用于企业内部IP地址分配，网络标准规定的私网地址有 （52） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%A7%81%E7%BD%91%E5%9C%B0%E5%9D%80%E7%94%A8%E4%BA%8E%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8IP%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%EF%BC%8C%E7%BD%91%E7%BB%9C%E6%A0%87%E5%87%86%E8%A7%84%E5%AE%9A%E7%9A%84%E7%A7%81%E7%BD%91%E5%9C%B0%E5%9D%80%E6%9C%89%20%EF%BC%8852%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（52） </span>A．A类有10个：10.0.0.0~20.0.0.0
             </p>
-            <p class="choice false">&emsp;&emsp;B．B类有16个：172.0.0.0~172.15.0.0
+            <p class="choice false">B．B类有16个：172.0.0.0~172.15.0.0
             </p>
-            <p class="choice true">&emsp;&emsp;C．C类有256个：192.168.0.0~192.168.255.0
+            <p class="choice true">C．C类有256个：192.168.0.0~192.168.255.0
             </p>
-            <p class="choice false">&emsp;&emsp;D．D类有1个：244.0.0.0</p>
+            <p class="choice false">D．D类有1个：244.0.0.0</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -714,10 +714,10 @@
         <div class="block">
             <p class="question">下面的地址中，属于本地回路地址的是 （53） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E7%9A%84%E5%9C%B0%E5%9D%80%E4%B8%AD%EF%BC%8C%E5%B1%9E%E4%BA%8E%E6%9C%AC%E5%9C%B0%E5%9B%9E%E8%B7%AF%E5%9C%B0%E5%9D%80%E7%9A%84%E6%98%AF%20%EF%BC%8853%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（53） </span>A．10.10.10.1</p>
-            <p class="choice false">&emsp;&emsp;B．255.255.255.0
+            <p class="choice false">B．255.255.255.0
             </p>
-            <p class="choice true">&emsp;&emsp;C．127.0.0.1</p>
-            <p class="choice false">&emsp;&emsp;D．192.0.0.1</p>
+            <p class="choice true">C．127.0.0.1</p>
+            <p class="choice false">D．192.0.0.1</p>
             <div class="explain">
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
@@ -728,10 +728,10 @@
             <p class="question">某校园网的地址是202.100.192.0/18，要把该网络分成30个子网，则子网掩码应该是 （54） ，每个子网可分配的主机地址数是 （55） 。&emsp;<a
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9A%84%E5%9C%B0%E5%9D%80%E6%98%AF202.100.192.0/18%EF%BC%8C%E8%A6%81%E6%8A%8A%E8%AF%A5%E7%BD%91%E7%BB%9C%E5%88%86%E6%88%9030%E4%B8%AA%E5%AD%90%E7%BD%91%EF%BC%8C%E5%88%99%E5%AD%90%E7%BD%91%E6%8E%A9%E7%A0%81%E5%BA%94%E8%AF%A5%E6%98%AF%20%EF%BC%8854%EF%BC%89%20%EF%BC%8C%E6%AF%8F%E4%B8%AA%E5%AD%90%E7%BD%91%E5%8F%AF%E5%88%86%E9%85%8D%E7%9A%84%E4%B8%BB%E6%9C%BA%E5%9C%B0%E5%9D%80%E6%95%B0%E6%98%AF%20%EF%BC%8855%EF%BC%89%20%E3%80%82">百度</a></p>
             <p class="choice header_choice false"><span class="number">（54） </span>A．255.255.200.0</p>
-            <p class="choice false">&emsp;&emsp;B．255.255.224.0
+            <p class="choice false">B．255.255.224.0
             </p>
-            <p class="choice true">&emsp;&emsp;C．255.255.254.0</p>
-            <p class="choice false">&emsp;&emsp;D．255.255.255.0</p>
+            <p class="choice true">C．255.255.254.0</p>
+            <p class="choice false">D．255.255.255.0</p>
             <p class="one-line-choice"><span class="number">（55）</span>
                 <span class="choice false">A．32</span>
                 <span class="choice false">B．64</span>
@@ -761,10 +761,10 @@
             <div class="block">
                 <p class="question">要进入以太网端口配置模式，下面的路由器命令中，哪一条是正确的？ （57） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%A6%81%E8%BF%9B%E5%85%A5%E4%BB%A5%E5%A4%AA%E7%BD%91%E7%AB%AF%E5%8F%A3%E9%85%8D%E7%BD%AE%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%B8%8B%E9%9D%A2%E7%9A%84%E8%B7%AF%E7%94%B1%E5%99%A8%E5%91%BD%E4%BB%A4%E4%B8%AD%EF%BC%8C%E5%93%AA%E4%B8%80%E6%9D%A1%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84%EF%BC%9F%20%EF%BC%8857%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice true"><span class="number">（57） </span>A．R1(config)#interfacee0</p>
-                <p class="choice false">&emsp;&emsp;B．R1>interfacee0
+                <p class="choice false">B．R1>interfacee0
                 </p>
-                <p class="choice false">&emsp;&emsp;C．R1>linee0</p>
-                <p class="choice false">&emsp;&emsp;D．R1(config)#lines0</p>
+                <p class="choice false">C．R1>linee0</p>
+                <p class="choice false">D．R1(config)#lines0</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
@@ -777,10 +777,10 @@
             <div class="block">
                 <p class="question">要显示路由器的运行配置，下面的路由器命令中，哪一条是正确的？ （58） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%A6%81%E6%98%BE%E7%A4%BA%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E8%BF%90%E8%A1%8C%E9%85%8D%E7%BD%AE%EF%BC%8C%E4%B8%8B%E9%9D%A2%E7%9A%84%E8%B7%AF%E7%94%B1%E5%99%A8%E5%91%BD%E4%BB%A4%E4%B8%AD%EF%BC%8C%E5%93%AA%E4%B8%80%E6%9D%A1%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84%EF%BC%9F%20%EF%BC%8858%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice true"><span class="number">（58） </span>A．R1#showrunning-config</p>
-                <p class="choice false">&emsp;&emsp;B．R1#showstartup-config
+                <p class="choice false">B．R1#showstartup-config
                 </p>
-                <p class="choice false">&emsp;&emsp;C．R1>showstartup-config</p>
-                <p class="choice false">&emsp;&emsp;D．R1>showrunning-config</p>
+                <p class="choice false">C．R1>showstartup-config</p>
+                <p class="choice false">D．R1>showrunning-config</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
@@ -792,11 +792,11 @@
                 <p class="question">下面关于802.1q协议的说明中正确的是 （59） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E9%9D%A2%E5%85%B3%E4%BA%8E802.1q%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%AF%B4%E6%98%8E%E4%B8%AD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8859%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice true"><span class="number">（59） </span>A．这个协议在原来的以太网帧中增加了4个字节的帧标记字段
                 </p>
-                <p class="choice false">&emsp;&emsp;B．这个协议是IETF制定的
+                <p class="choice false">B．这个协议是IETF制定的
                 </p>
-                <p class="choice false">&emsp;&emsp;C．这个协议在以太网帧的头部增加了26字节的帧标记字段
+                <p class="choice false">C．这个协议在以太网帧的头部增加了26字节的帧标记字段
                 </p>
-                <p class="choice false">&emsp;&emsp;D．这个协议在帧尾部附加了4字节的CRC校验码</p>
+                <p class="choice false">D．这个协议在帧尾部附加了4字节的CRC校验码</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
@@ -810,11 +810,11 @@
                 <p class="question">配置VLAN有多种方法，下面哪一条不是配置VLAN的方法？ （60） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E9%85%8D%E7%BD%AEVLAN%E6%9C%89%E5%A4%9A%E7%A7%8D%E6%96%B9%E6%B3%95%EF%BC%8C%E4%B8%8B%E9%9D%A2%E5%93%AA%E4%B8%80%E6%9D%A1%E4%B8%8D%E6%98%AF%E9%85%8D%E7%BD%AEVLAN%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%9F%20%EF%BC%8860%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice false"><span class="number">（60） </span>A．把交换机端口指定给某个VLAN
                 </p>
-                <p class="choice false">&emsp;&emsp;B．把MAC地址指定给某个VLAN
+                <p class="choice false">B．把MAC地址指定给某个VLAN
                 </p>
-                <p class="choice true">&emsp;&emsp;C．由DHCP服务器动态地为计算机分配VLAN
+                <p class="choice true">C．由DHCP服务器动态地为计算机分配VLAN
                 </p>
-                <p class="choice false">&emsp;&emsp;D．根据上层协议来划分VLAN</p>
+                <p class="choice false">D．根据上层协议来划分VLAN</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
@@ -840,11 +840,11 @@
                 <p class="question">以太网协议中使用了二进制指数后退算法，这个算法的特点是 （62） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E5%A4%AA%E7%BD%91%E5%8D%8F%E8%AE%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%BA%86%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%8C%87%E6%95%B0%E5%90%8E%E9%80%80%E7%AE%97%E6%B3%95%EF%BC%8C%E8%BF%99%E4%B8%AA%E7%AE%97%E6%B3%95%E7%9A%84%E7%89%B9%E7%82%B9%E6%98%AF%20%EF%BC%8862%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice false"><span class="number">（62） </span>A．容易实现，工作效率高
                 </p>
-                <p class="choice false">&emsp;&emsp;B．在轻负载下能提高网络的利用率
+                <p class="choice false">B．在轻负载下能提高网络的利用率
                 </p>
-                <p class="choice true">&emsp;&emsp;C．在重负载下能有效分解冲突
+                <p class="choice true">C．在重负载下能有效分解冲突
                 </p>
-                <p class="choice false">&emsp;&emsp;D．在任何情况下不会发生阻塞</p>
+                <p class="choice false">D．在任何情况下不会发生阻塞</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
@@ -927,11 +927,11 @@
                 <p class="question">采用以太网链路聚合技术将 （67） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E9%87%87%E7%94%A8%E4%BB%A5%E5%A4%AA%E7%BD%91%E9%93%BE%E8%B7%AF%E8%81%9A%E5%90%88%E6%8A%80%E6%9C%AF%E5%B0%86%20%EF%BC%8867%EF%BC%89%20%E3%80%82">百度</a></p>
                 <p class="choice header_choice false"><span class="number">（67） </span>A．多个逻辑链路组成一个物理链路
                 </p>
-                <p class="choice false">&emsp;&emsp;B．多个逻辑链路组成一个逻辑链路
+                <p class="choice false">B．多个逻辑链路组成一个逻辑链路
                 </p>
-                <p class="choice false">&emsp;&emsp;C．多个物理链路组成一个物理链路
+                <p class="choice false">C．多个物理链路组成一个物理链路
                 </p>
-                <p class="choice true">&emsp;&emsp;D．多个物理链路组成一个逻辑链路</p>
+                <p class="choice true">D．多个物理链路组成一个逻辑链路</p>
                 <div class="explain">
                     <p class="explain-header"> 试题解析：</p>
                     <p class="explain-content">
