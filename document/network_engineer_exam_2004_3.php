@@ -256,7 +256,10 @@
             <div class="explainBlock">
                 <p class="explainHeader"> 试题解析：</p>
                 <p class="explain">
-                    常识。</p>
+                    VPN技术，分为二层、三层及三层以上隧道协议<br/>
+					其中二层（数据链路层）VPN有：PPTP、L2TP、L2F 等<br/>
+					三层（网络层）隧道协议VPN有：IPSec、GRE VPN、VTP等<br/>
+					而应用层VPN的代表则为：SSL VPN</p>
             </div>
         </div>
         <div class="block">
@@ -412,7 +415,12 @@
             <div class="explainBlock">
                 <p class="explainHeader"> 试题解析：</p>
                 <p class="explain">
-                    常识。</p>
+                    光波分复用技术 WDM（Wavelength Division Multiplexing）技术是指使用多束激光在同一条光纤上同时传输多个不同波长的光波技术。<br/>
+					1、一条E1是2.048M的链路，用PCM编码。<br/>
+					2、一个E1的帧长为256个bit,分为32个时隙，一个时隙为8个bit。<br/>
+					3、每秒有8k个E1的帧通过接口，即8K*256=2048kbps。<br/>
+					4、每个时隙在E1帧中占8bit，8*8k=64k，即一条E1中含有32个64K。<br/>
+					每个时隙的速率为64Kb/s</p>
             </div>
         </div>
         <div class="block">
@@ -451,7 +459,7 @@
             <div class="explainBlock">
                 <p class="explainHeader"> 试题解析：</p>
                 <p class="explain">
-                    常识。</p>
+                    高级数据链路控制（High-Level Data Link Control或简称HDLC），是一个在同步网上传输 数据、面向比特的数据链路层协议，它是由国际标准化组织（ISO）根据IBM公司的SDLC（Synchronous Data Link Control）协议扩展开发而成的。</p>
             </div>
         </div>
         <div class="block">
