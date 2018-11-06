@@ -394,6 +394,11 @@ li.topbar-nav-end{
     text-align: center;
 }
 
+.img img{
+    width:100%;
+    max-width:25em;
+}
+
 .gap-filling{
     line-height: 2em;
 }
