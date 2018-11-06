@@ -9,7 +9,7 @@ $(document).ready(function () {
     });
 
 
-    $(".explain").click(function () {
+    $(".explain-content").click(function () {
         $(this).css("color","green");
     });
 

@@ -29,9 +29,9 @@
             <p class="choice false">&emsp;&emsp;C．CPU中的控制器决定计算机运行过程的自动化
             </p>
             <p class="choice false">&emsp;&emsp;D．指令译码器是CPU控制器中的部件</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     PC不可以存储算术/逻辑运算结果。</p>
             </div>
         </div>
@@ -45,9 +45,9 @@
             <p class="choice false">&emsp;&emsp;C．在RISC中，更适合采用硬布线逻辑执行指令
             </p>
             <p class="choice false">&emsp;&emsp;D．采用RISC技术，指令系统中的指令种类和寻址方式更少</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     CISC 的指令系统对应的控制信号复杂，大多采用微程序控制器方式。</p>
             </div>
         </div>
@@ -60,9 +60,9 @@
             <p class="choice false">&emsp;&emsp;C．循环冗余校验码具有很强的检错和纠错能力
             </p>
             <p class="choice false">&emsp;&emsp;D．循环冗余校验码的码距必定为1</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     海明码使用多组数位进行异或运算来检错和纠错。不过，异或也可以当做是奇偶计算，因此A可以算是正确的。<br />
                     B的错误在于码距不能等于1。<br />
                     C的错误在于CRC不具有纠错能力。<br />
@@ -79,54 +79,54 @@
             <p class="choice false">&emsp;&emsp;C．Cache的设计目标是容量尽可能与主存容量相等
             </p>
             <p class="choice false">&emsp;&emsp;D．CPU中的Cache容量应该大于CPU之外的Cache容量</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     A、C、D都明显错误。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">面向对象开发方法的基本思想是尽可能按照人类认识客观世界的方法来分析和解决问题， （5） 方法不属于面向对象方法。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%BC%80%E5%8F%91%E6%96%B9%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3%E6%98%AF%E5%B0%BD%E5%8F%AF%E8%83%BD%E6%8C%89%E7%85%A7%E4%BA%BA%E7%B1%BB%E8%AE%A4%E8%AF%86%E5%AE%A2%E8%A7%82%E4%B8%96%E7%95%8C%E7%9A%84%E6%96%B9%E6%B3%95%E6%9D%A5%E5%88%86%E6%9E%90%E5%92%8C%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%EF%BC%8C%20%EF%BC%885%EF%BC%89%20%E6%96%B9%E6%B3%95%E4%B8%8D%E5%B1%9E%E4%BA%8E%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%96%B9%E6%B3%95%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（5）</span>
+            <p class="one-line-choice"><span class="number">（5）</span>
                 <span class="choice false">A．Booch</span>
                 <span class="choice false">B．Coad</span>
                 <span class="choice false">C．OMT</span>
                 <span class="choice true">D．Jackson</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     Jackson是面向数据结构的设计方法。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">确定构建软件系统所需要的人数时，无需考虑 （6） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%A1%AE%E5%AE%9A%E6%9E%84%E5%BB%BA%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E4%BA%BA%E6%95%B0%E6%97%B6%EF%BC%8C%E6%97%A0%E9%9C%80%E8%80%83%E8%99%91%20%EF%BC%886%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（6）</span>
+            <p class="one-line-choice"><span class="number">（6）</span>
                 <span class="choice true">A．系统的市场前景</span>
                 <span class="choice false">B．系统的规模
                 </span>
                 <span class="choice false">C．系统的技术复杂度</span>
                 <span class="choice false">D．项目计划</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">一个项目为了修正一个错误而进行了变更。这个变更被修正后，却引起以前可以正确运行的代码出错。 （7） 最可能发现这一问题。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BA%86%E4%BF%AE%E6%AD%A3%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E8%80%8C%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%8F%98%E6%9B%B4%E3%80%82%E8%BF%99%E4%B8%AA%E5%8F%98%E6%9B%B4%E8%A2%AB%E4%BF%AE%E6%AD%A3%E5%90%8E%EF%BC%8C%E5%8D%B4%E5%BC%95%E8%B5%B7%E4%BB%A5%E5%89%8D%E5%8F%AF%E4%BB%A5%E6%AD%A3%E7%A1%AE%E8%BF%90%E8%A1%8C%E7%9A%84%E4%BB%A3%E7%A0%81%E5%87%BA%E9%94%99%E3%80%82%20%EF%BC%887%EF%BC%89%20%E6%9C%80%E5%8F%AF%E8%83%BD%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%80%E9%97%AE%E9%A2%98%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（7）</span>
+            <p class="one-line-choice"><span class="number">（7）</span>
                 <span class="choice false">A．单元测试</span>
                 <span class="choice false">B．接受测试</span>
                 <span class="choice true">C．回归测试</span>
                 <span class="choice false">D．安装测试</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     在软件生命周期中的任何一个阶段，只要软件发生了改变，就可能给该软件带来问题。软件的改变可能是源于发现了错误并做了修改，也有可能是因为在集成或维护阶段加入了新的模块。当软件中所含错误被发现时，如果错误跟踪与管理系统不够完善，就可能会遗漏对这些错误的修改；而开发者对错误理解的不够透彻，也可能导致所做的修改只修正了错误的外在表现，而没有修复错误本身，从而造成修改失败；修改还有可能产生副作用从而导致软件未被修改的部分产生新的问题，使本来工作正常的功能产生错误。同样，在有新代码加入软件的时候，除了新加入的代码中有可能含有错误外，新代码还有可能对原有的代码带来影响。因此，每当软件发生变化时，我们就必须重新测试现有的功能，以便确定修改是否达到了预期的目的，检查修改是否损害了原有的正常功能。同时，还需要补充新的测试用例来测试新的或被修改了的功能。为了验证修改的正确性及其影响就需要进行回归测试。</p>
             </div>
         </div>
@@ -148,25 +148,25 @@
             <p class="choice false">&emsp;&emsp;C．最终用户、系统软件开发者和应用软件开发者
             </p>
             <p class="choice true">&emsp;&emsp;D．最终用户、应用软件开发者和系统软件开发者</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">软件权利人与被许可方签订一份软件使用许可合同。若在该合同约定的时间和地域范围内，软件权利人不得再许可任何第三人以此相同的方法使用该项软件，但软件权利人可以自己使用，则该项许可使用是
                 （10） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%BD%AF%E4%BB%B6%E6%9D%83%E5%88%A9%E4%BA%BA%E4%B8%8E%E8%A2%AB%E8%AE%B8%E5%8F%AF%E6%96%B9%E7%AD%BE%E8%AE%A2%E4%B8%80%E4%BB%BD%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AF%E5%90%88%E5%90%8C%E3%80%82%E8%8B%A5%E5%9C%A8%E8%AF%A5%E5%90%88%E5%90%8C%E7%BA%A6%E5%AE%9A%E7%9A%84%E6%97%B6%E9%97%B4%E5%92%8C%E5%9C%B0%E5%9F%9F%E8%8C%83%E5%9B%B4%E5%86%85%EF%BC%8C%E8%BD%AF%E4%BB%B6%E6%9D%83%E5%88%A9%E4%BA%BA%E4%B8%8D%E5%BE%97%E5%86%8D%E8%AE%B8%E5%8F%AF%E4%BB%BB%E4%BD%95%E7%AC%AC%E4%B8%89%E4%BA%BA%E4%BB%A5%E6%AD%A4%E7%9B%B8%E5%90%8C%E7%9A%84%E6%96%B9%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%A5%E9%A1%B9%E8%BD%AF%E4%BB%B6%EF%BC%8C%E4%BD%86%E8%BD%AF%E4%BB%B6%E6%9D%83%E5%88%A9%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%88%99%E8%AF%A5%E9%A1%B9%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E6%98%AF%20%EF%BC%8810%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（10）</span>
+            <p class="one-line-choice"><span class="number">（10）</span>
                 <span class="choice true">A．独家许可使用</span>
                 <span class="choice false">B．独占许可使用
                 </span>
                 <span class="choice false">C．普通许可使用</span>
                 <span class="choice false">D．部分许可使用</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     许可贸易实际上是一种许可方用授权的形式向被许可方转让技术使用权同时也让度一定市场的贸易行为。根据其授权程度大小，许可贸易可分为如下五种形式：<br />
                     (1)独占许可。它是指在合同规定的期限和地域内，被许可方对转让的技术享有独占的使用权，即许可方自己和任何第三方都不得使用该项技术和销售该技术项下的产品。所以这种许可的技术使用费是最高的。<br />
                     (2)排他许可，又称独家许可；它是指在合同规定的期限和地域内，被许可方和许可方自己都可使用该许可项下的技术和销售该技术项下的产品，但许可方不得再将该项技术转让给第三方。排他许可是仅排除第三方面不排除许可方。<br />
@@ -178,22 +178,22 @@
         <div class="block">
             <p class="question">E1载波的基本帧由32个子信道组成。其中30个子信道用于传送语音数据，2个子信道 （11） 用于传送控制信令。该基本帧的传送时间为 （12） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=E1%E8%BD%BD%E6%B3%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%B8%A7%E7%94%B132%E4%B8%AA%E5%AD%90%E4%BF%A1%E9%81%93%E7%BB%84%E6%88%90%E3%80%82%E5%85%B6%E4%B8%AD30%E4%B8%AA%E5%AD%90%E4%BF%A1%E9%81%93%E7%94%A8%E4%BA%8E%E4%BC%A0%E9%80%81%E8%AF%AD%E9%9F%B3%E6%95%B0%E6%8D%AE%EF%BC%8C2%E4%B8%AA%E5%AD%90%E4%BF%A1%E9%81%93%20%EF%BC%8811%EF%BC%89%20%E7%94%A8%E4%BA%8E%E4%BC%A0%E9%80%81%E6%8E%A7%E5%88%B6%E4%BF%A1%E4%BB%A4%E3%80%82%E8%AF%A5%E5%9F%BA%E6%9C%AC%E5%B8%A7%E7%9A%84%E4%BC%A0%E9%80%81%E6%97%B6%E9%97%B4%E4%B8%BA%20%EF%BC%8812%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（11）</span>
+            <p class="one-line-choice"><span class="number">（11）</span>
                 <span class="choice false">A．CH0和CH2</span>
                 <span class="choice false">B．CH1和CH15
                 </span>
                 <span class="choice false">C．CH15和CH16</span>
                 <span class="choice true">D．CH0和CH16</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（12）</span>
+            <p class="one-line-choice"><span class="number">（12）</span>
                 <span class="choice false">A．100ms</span>
                 <span class="choice false">B．200μs</span>
                 <span class="choice true">C．125μs</span>
                 <span class="choice false">D．150μs</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     E1的一个时分复用帧的传送时间为125μs，即每秒8000次。<br />
                     一个帧的传送时间被划分为32相等的子信道，信道的编号为CH0~CH31。其中信道CH0用作帧同步用，信道CH16用来传送信令，剩下CH1~CH15和CH17~CH31
                     共30个信道可用于用户数据传输。</p>
@@ -202,21 +202,21 @@
         <div class="block">
             <p class="question">4B/5B编码是一种两级编码方案，首先要把数据变成 （13） 编码，再把4位分为一组的代码变换成5单位的代码，这种编码的效率是 （14） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=4B/5B%E7%BC%96%E7%A0%81%E6%98%AF%E4%B8%80%E7%A7%8D%E4%B8%A4%E7%BA%A7%E7%BC%96%E7%A0%81%E6%96%B9%E6%A1%88%EF%BC%8C%E9%A6%96%E5%85%88%E8%A6%81%E6%8A%8A%E6%95%B0%E6%8D%AE%E5%8F%98%E6%88%90%20%EF%BC%8813%EF%BC%89%20%E7%BC%96%E7%A0%81%EF%BC%8C%E5%86%8D%E6%8A%8A4%E4%BD%8D%E5%88%86%E4%B8%BA%E4%B8%80%E7%BB%84%E7%9A%84%E4%BB%A3%E7%A0%81%E5%8F%98%E6%8D%A2%E6%88%905%E5%8D%95%E4%BD%8D%E7%9A%84%E4%BB%A3%E7%A0%81%EF%BC%8C%E8%BF%99%E7%A7%8D%E7%BC%96%E7%A0%81%E7%9A%84%E6%95%88%E7%8E%87%E6%98%AF%20%EF%BC%8814%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（13）</span>
+            <p class="one-line-choice"><span class="number">（13）</span>
                 <span class="choice true">A．NRZ-I</span>
                 <span class="choice false">B．AMI</span>
                 <span class="choice false">C．QAM</span>
                 <span class="choice false">D．PCM</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（14）</span>
+            <p class="one-line-choice"><span class="number">（14）</span>
                 <span class="choice false">A．0.4</span>
                 <span class="choice false">B．0.5</span>
                 <span class="choice true">C．0.8</span>
                 <span class="choice false">D．1.0</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     4B / 5B编码是将欲发送的数据流每4bit作为一个组，然后按照4B /
                     5B编码规则将其转换成相应5bit码。5bit码共有32种组合，但只采用其中的16种作为数据码对应4bit码；其它的16种或者未用，或者作为控制码用于表示帧的开始和结束、光纤线路的状态（静止、空闲、暂停）等。<br />
                     4B / 5B编码可以在NRZ-I编码的基础上实现，但由于NRI-I编码（非归零反相编码）没有解决传输比特0的同步问题，因此，4B /
@@ -235,16 +235,16 @@
             <p class="choice true">&emsp;&emsp;C．X为曼彻斯特码，Y为差分曼彻斯特码
             </p>
             <p class="choice false">&emsp;&emsp;D．X为曼彻斯特码，Y为不归零码</p>
-            <p class="oneLineChoice"><span class="number">（16）</span>
+            <p class="one-line-choice"><span class="number">（16）</span>
                 <span class="choice false">A．010011110</span>
                 <span class="choice true">B．010011010
                 </span>
                 <span class="choice false">C．011011010</span>
                 <span class="choice false">D．010010010</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     两种编码都在比特间隙的中央有跳变，说明它们都属于双相位编码。因此（15）题答案只能在A、C中选择。<br />
                     如果（15）题选A，则x为差分曼彻斯特编码。差分曼彻斯特编码的比特间隙中间的跳变仅用于携带同步信息，不同比特是通过在比特间隙开始位置是否有电平跳变来表示。每比特的开始位置没有电平跳变表示比特1，有电平跳变表示比特0。<br />
                     如果将x编码当做差分曼彻斯特编码，其数据应该是？11010111（第一位编码由于无法预知其前状态，因此只能用？表示）。y编码可能是“011101100”或“100010011”，显然差分曼彻斯特编码和曼彻斯特编码的结果对应不上，因此A是错误的。<br />
@@ -256,21 +256,21 @@
                 <br />
                 §§<br />
                 &emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E8%B0%83%E5%88%B6%E6%96%B9%E5%BC%8F%E6%98%AF%20%EF%BC%8817%EF%BC%89%20%E3%80%82%E8%8B%A5%E8%BD%BD%E6%B3%A2%E9%A2%91%E7%8E%87%E4%B8%BA2400Hz%EF%BC%8C%E5%88%99%E7%A0%81%E5%85%83%E9%80%9F%E7%8E%87%E4%B8%BA%20%EF%BC%8818%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%3Cbr/%3E%0A%C2%A7%C2%A7%3Cbr/%3E%0A">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（17）</span>
+            <p class="one-line-choice"><span class="number">（17）</span>
                 <span class="choice false">A．FSK</span>
                 <span class="choice true">B．2DPSK</span>
                 <span class="choice false">C．ASK</span>
                 <span class="choice false">D．QAM</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（18）</span>
+            <p class="one-line-choice"><span class="number">（18）</span>
                 <span class="choice false">A．100Baud</span>
                 <span class="choice false">B．200Baud</span>
                 <span class="choice true">C．1200Baud</span>
                 <span class="choice false">D．2400Baud</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     这个信号明显是属于相位调制，在（17）题的备选答案中，PSK是相移键控，满足题意。<br />
                     DPSK（Differential Phase Shift
                     Keying，差分相移键控）波形的同一个相位并不一定代表相同的数字信号，而前后码元的相对相位才能唯一地确定数字信息，所以只要前后码元的相对相位关系不破坏，就可正确恢复数字信息。这就避免了绝对PSK方式中的“倒π”现象的发生，因此得到广泛的应用。<br />
@@ -282,21 +282,21 @@
         <div class="block">
             <p class="question">在相隔2000km的两地间通过电缆以4800b/s的速率传送3000比特长的数据包，从开始发送到接收完数据需要的时间是 （19）
                 。如果用50kb/s的卫星信道传送，则需要的时间是 （20） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8%E7%9B%B8%E9%9A%942000km%E7%9A%84%E4%B8%A4%E5%9C%B0%E9%97%B4%E9%80%9A%E8%BF%87%E7%94%B5%E7%BC%86%E4%BB%A54800b/s%E7%9A%84%E9%80%9F%E7%8E%87%E4%BC%A0%E9%80%813000%E6%AF%94%E7%89%B9%E9%95%BF%E7%9A%84%E6%95%B0%E6%8D%AE%E5%8C%85%EF%BC%8C%E4%BB%8E%E5%BC%80%E5%A7%8B%E5%8F%91%E9%80%81%E5%88%B0%E6%8E%A5%E6%94%B6%E5%AE%8C%E6%95%B0%E6%8D%AE%E9%9C%80%E8%A6%81%E7%9A%84%E6%97%B6%E9%97%B4%E6%98%AF%20%EF%BC%8819%EF%BC%89%20%E3%80%82%E5%A6%82%E6%9E%9C%E7%94%A850kb/s%E7%9A%84%E5%8D%AB%E6%98%9F%E4%BF%A1%E9%81%93%E4%BC%A0%E9%80%81%EF%BC%8C%E5%88%99%E9%9C%80%E8%A6%81%E7%9A%84%E6%97%B6%E9%97%B4%E6%98%AF%20%EF%BC%8820%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（19）</span>
+            <p class="one-line-choice"><span class="number">（19）</span>
                 <span class="choice false">A．480ms</span>
                 <span class="choice false">B．645ms</span>
                 <span class="choice false">C．630ms</span>
                 <span class="choice true">D．635ms</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（20）</span>
+            <p class="one-line-choice"><span class="number">（20）</span>
                 <span class="choice false">A．70ms</span>
                 <span class="choice true">B．330ms</span>
                 <span class="choice false">C．500ms</span>
                 <span class="choice false">D．600ms</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     电信号在铜缆上的传播速度大致为光速的2/3，也就是每秒20万公里。<br />
                     （19）题的答案是总传输时间=传输延迟时间+数据帧的发送时间=2000 / 200000 + 3000 / 4800 = 10ms + 625ms = 635ms。<br />
                     （20）题有些含混，毕竟信号要先发到太空的卫星上，再转发到2000km外的接收站，因此总距离不可能还是2000km，不过题目没有提供相关数据。<br />
@@ -321,9 +321,9 @@
             <p class="choice false">&emsp;&emsp;C．路由信息只能发送给左右两边的路由器
             </p>
             <p class="choice false">&emsp;&emsp;D．路由信息必须用组播而不是广播方式发送</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     RIP是基于D-V算法的路由协议，由于D-V算法存在着路由收敛速度慢的问题，因此RIPv2采用了触发更新等机制来加速路由计算。<br />
                     RFC 1388对RIP协议进行了扩充，定义了RIPv2。RIPv1使用广播方式进行路由更新，RIPv2改为组播方式进行路由更新。RIPv2使用的组播地址是224.0.0.9。<br />
                     RIPv1不具备身份验证功能，这样就存在有安全漏洞。RIPv2实现了身份验证功能，能够通过路由更新消息中的口令来判断消息的合法性。RIPv2支持两种类型的身份验证：明文口令和MD5散列口令。明文口令安全性差，不推荐使用。当使用MD5散列口令时，发送方使用MD5单向散列函数将路由更新消息和口令一起计算出一个摘要值，然后将路由更新消息和摘要值一起发送出去；接收方收到路由更新消息后，使用相同的方法也计算出一个摘要值，将收到的摘要值和自己计算出来的摘要值进行对比，如果相等，说明双方使用了相同的MD5散列口令。由于MD5散列口令并非直接在网络上以明文形式进行传输，因此具有较高的安全性。<br />
@@ -335,16 +335,16 @@
         </div>
         <div class="block">
             <p class="question">MPLS根据标记对分组进行交换，其标记中包含 （26） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=MPLS%E6%A0%B9%E6%8D%AE%E6%A0%87%E8%AE%B0%E5%AF%B9%E5%88%86%E7%BB%84%E8%BF%9B%E8%A1%8C%E4%BA%A4%E6%8D%A2%EF%BC%8C%E5%85%B6%E6%A0%87%E8%AE%B0%E4%B8%AD%E5%8C%85%E5%90%AB%20%EF%BC%8826%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（26）</span>
+            <p class="one-line-choice"><span class="number">（26）</span>
                 <span class="choice false">A．MAC地址</span>
                 <span class="choice true">B．IP地址
                 </span>
                 <span class="choice false">C．VLAN编号</span>
                 <span class="choice false">D．分组长度</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     MPLS提供多种协议的接口，如 IP、ATM、帧中继、资源预留协议（RSVP）、开放最短路径优先（OSPF）等。MPLS将IP地址映射为简单的具有固定长度的标签，用于不同的包转发和包交换技术。</p>
             </div>
         </div>
@@ -368,9 +368,9 @@
             </p>
             <p class="choice true">&emsp;&emsp;C．不能正常连接到网关</p>
             <p class="choice false">&emsp;&emsp;D．DHCP服务器工作不正常</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     略。</p>
             </div>
         </div>
@@ -378,13 +378,13 @@
             <p class="question">在Linux 系统中，采用 （30） 命令查看进程输出的信息，得到下图所示的结果。系统启动时最先运行的进程是 （31） ，下列关于进程xinetd的说法中正确的是 （32）
                 。<br />
                 §§&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Linux%20%E7%B3%BB%E7%BB%9F%E4%B8%AD%EF%BC%8C%E9%87%87%E7%94%A8%20%EF%BC%8830%EF%BC%89%20%E5%91%BD%E4%BB%A4%E6%9F%A5%E7%9C%8B%E8%BF%9B%E7%A8%8B%E8%BE%93%E5%87%BA%E7%9A%84%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%BE%97%E5%88%B0%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E7%BB%93%E6%9E%9C%E3%80%82%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E6%97%B6%E6%9C%80%E5%85%88%E8%BF%90%E8%A1%8C%E7%9A%84%E8%BF%9B%E7%A8%8B%E6%98%AF%20%EF%BC%8831%EF%BC%89%20%EF%BC%8C%E4%B8%8B%E5%88%97%E5%85%B3%E4%BA%8E%E8%BF%9B%E7%A8%8Bxinetd%E7%9A%84%E8%AF%B4%E6%B3%95%E4%B8%AD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8832%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（30）</span>
+            <p class="one-line-choice"><span class="number">（30）</span>
                 <span class="choice false">A．ps-all</span>
                 <span class="choice true">B．ps-aef</span>
                 <span class="choice false">C．ls-a</span>
                 <span class="choice false">D．ls–la</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（31）</span>
+            <p class="one-line-choice"><span class="number">（31）</span>
                 <span class="choice false">A．0</span>
                 <span class="choice false">B．null</span>
                 <span class="choice true">C．init</span>
@@ -395,9 +395,9 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．xinetd进程负责配置网络接口</p>
             <p class="choice false">&emsp;&emsp;D．xinetd进程进程负责启动网卡</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     ps命令显示系统正在运行的进程，参数：e列出系统所有的进程，f列出详细清单。<br />
                     显示各列为：<br />
                     ★ UID：运行进程的用户<br />
@@ -418,15 +418,15 @@
         </div>
         <div class="block">
             <p class="question">Linux操作系统中，网络管理员可以通过修改 （33） 文件对web服务器端口进行配置。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%AD%EF%BC%8C%E7%BD%91%E7%BB%9C%E7%AE%A1%E7%90%86%E5%91%98%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E4%BF%AE%E6%94%B9%20%EF%BC%8833%EF%BC%89%20%E6%96%87%E4%BB%B6%E5%AF%B9web%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF%E5%8F%A3%E8%BF%9B%E8%A1%8C%E9%85%8D%E7%BD%AE%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（33）</span>
+            <p class="one-line-choice"><span class="number">（33）</span>
                 <span class="choice false">A．inetd.conf</span>
                 <span class="choice false">B．lilo.conf</span>
                 <span class="choice true">C．httpd.conf</span>
                 <span class="choice false">D．resolv.conf</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     inetd.conf是系统超级服务进程inetd的配置文件。<br />
                     lilo.conf是操作系统启动程序LILO的配置文件。<br />
                     httpd.conf是web服务器Apache的配置文件。<br />
@@ -435,15 +435,15 @@
         </div>
         <div class="block">
             <p class="question">在Linux操作系统中，存放用户账号加密口令的文件是 （34） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%AD%EF%BC%8C%E5%AD%98%E6%94%BE%E7%94%A8%E6%88%B7%E8%B4%A6%E5%8F%B7%E5%8A%A0%E5%AF%86%E5%8F%A3%E4%BB%A4%E7%9A%84%E6%96%87%E4%BB%B6%E6%98%AF%20%EF%BC%8834%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（34）</span>
+            <p class="one-line-choice"><span class="number">（34）</span>
                 <span class="choice false">A．/etc/sam</span>
                 <span class="choice true">B．/etc/shadow</span>
                 <span class="choice false">C．etc/group</span>
                 <span class="choice false">D．etc/security</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
@@ -462,9 +462,9 @@
             <p class="choice false">&emsp;&emsp;C．add route 102.217.112.0 255.255.255.0 102.217.115.1
             </p>
             <p class="choice false">&emsp;&emsp;D．add route 102.217.112.0 mask 255.255.255.0 102.217.115.1</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     route add的格式是：<br />
                     §§</p>
             </div>
@@ -478,66 +478,66 @@
             <p class="choice false">&emsp;&emsp;C．MMC可以运行在WindowsXP和Windows2000操作系统上
             </p>
             <p class="choice true">&emsp;&emsp;D．MMC是用来管理硬件、软件和Windows系统的网络组件</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     Microsoft 管理控制台 (MMC) 集成了可以用于管理网络、计算机、服务和其他系统组件的管理工具。它不仅仅是一个网络组件。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">RAID技术中，磁盘容量利用率最高的是 （38） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=RAID%E6%8A%80%E6%9C%AF%E4%B8%AD%EF%BC%8C%E7%A3%81%E7%9B%98%E5%AE%B9%E9%87%8F%E5%88%A9%E7%94%A8%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E6%98%AF%20%EF%BC%8838%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（38）</span>
+            <p class="one-line-choice"><span class="number">（38）</span>
                 <span class="choice true">A．RAID0</span>
                 <span class="choice false">B．RAID1</span>
                 <span class="choice false">C．RAID3</span>
                 <span class="choice false">D．RAID5</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                 </p>
             </div>
         </div>
         <div class="block">
             <p class="question">xDSL技术中，能提供上下行信道非对称传输的是 （39） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=xDSL%E6%8A%80%E6%9C%AF%E4%B8%AD%EF%BC%8C%E8%83%BD%E6%8F%90%E4%BE%9B%E4%B8%8A%E4%B8%8B%E8%A1%8C%E4%BF%A1%E9%81%93%E9%9D%9E%E5%AF%B9%E7%A7%B0%E4%BC%A0%E8%BE%93%E7%9A%84%E6%98%AF%20%EF%BC%8839%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（39）</span>
+            <p class="one-line-choice"><span class="number">（39）</span>
                 <span class="choice false">A．ADSL和HDSL</span>
                 <span class="choice true">B．ADSL和VDSL
                 </span>
                 <span class="choice false">C．SDSL和VDSL</span>
                 <span class="choice false">D．SDSL和HDSL</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                 </p>
             </div>
         </div>
         <div class="block">
             <p class="question">若FTP服务器开启了匿名访问功能，匿名登录时需要输入的用户名是 （40） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%8B%A5FTP%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%90%AF%E4%BA%86%E5%8C%BF%E5%90%8D%E8%AE%BF%E9%97%AE%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%8C%BF%E5%90%8D%E7%99%BB%E5%BD%95%E6%97%B6%E9%9C%80%E8%A6%81%E8%BE%93%E5%85%A5%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D%E6%98%AF%20%EF%BC%8840%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（40）</span>
+            <p class="one-line-choice"><span class="number">（40）</span>
                 <span class="choice false">A．root</span>
                 <span class="choice false">B．user</span>
                 <span class="choice false">C．guest</span>
                 <span class="choice true">D．anonymous</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">在Kerberos系统中，使用一次性密钥和 （41） 来防止重放攻击。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8Kerberos%E7%B3%BB%E7%BB%9F%E4%B8%AD%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E5%AF%86%E9%92%A5%E5%92%8C%20%EF%BC%8841%EF%BC%89%20%E6%9D%A5%E9%98%B2%E6%AD%A2%E9%87%8D%E6%94%BE%E6%94%BB%E5%87%BB%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（41）</span>
+            <p class="one-line-choice"><span class="number">（41）</span>
                 <span class="choice true">A．时间戳</span>
                 <span class="choice false">B．数字签名</span>
                 <span class="choice false">C．序列号</span>
                 <span class="choice false">D．数字证书</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     Kerberos是为TCP/
                     IP网络而设计的基于客户机/服务器模式的三方验证协议，最早源于麻省理工学院（MIT）的雅典娜计划，由麻省理工学院（MIT）开发，首次公开的版本为v4，目前广泛使用的是v5。<br />
                     在Kerberos v4系统中，使用时间戳用来防止重发攻击。<br />
@@ -552,9 +552,9 @@
             </p>
             <p class="choice true">&emsp;&emsp;C．Trojan.qq3344</p>
             <p class="choice false">&emsp;&emsp;D．Macro.Melissa</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     Worm代表蠕虫；<br />
                     CIH是台湾人陈盈豪编写的一种能够攻击硬件的病毒。<br />
                     Trojan代表木马，来源于古希腊荷马史诗中木马破城的故事（Trojan一词的本意是特洛伊）。木马可以进行远程控制。<br />
@@ -570,50 +570,50 @@
             <p class="choice false">&emsp;&emsp;C．Router(config-if)#fixupaccess-list10out
             </p>
             <p class="choice false">&emsp;&emsp;D．Router(config-if)#routeaccess-group10out</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     §§</p>
             </div>
         </div>
         <div class="block">
             <p class="question">某网站向CA申请了数字证书。用户通过 （44） 来验证网站的真伪。在用户与网站进行安全通信时，用户可以通过 （45） 进行加密和验证，该网站通过 （46）
                 进行解密和签名。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90%E7%BD%91%E7%AB%99%E5%90%91CA%E7%94%B3%E8%AF%B7%E4%BA%86%E6%95%B0%E5%AD%97%E8%AF%81%E4%B9%A6%E3%80%82%E7%94%A8%E6%88%B7%E9%80%9A%E8%BF%87%20%EF%BC%8844%EF%BC%89%20%E6%9D%A5%E9%AA%8C%E8%AF%81%E7%BD%91%E7%AB%99%E7%9A%84%E7%9C%9F%E4%BC%AA%E3%80%82%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%8E%E7%BD%91%E7%AB%99%E8%BF%9B%E8%A1%8C%E5%AE%89%E5%85%A8%E9%80%9A%E4%BF%A1%E6%97%B6%EF%BC%8C%E7%94%A8%E6%88%B7%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%20%EF%BC%8845%EF%BC%89%20%E8%BF%9B%E8%A1%8C%E5%8A%A0%E5%AF%86%E5%92%8C%E9%AA%8C%E8%AF%81%EF%BC%8C%E8%AF%A5%E7%BD%91%E7%AB%99%E9%80%9A%E8%BF%87%20%EF%BC%8846%EF%BC%89%20%E8%BF%9B%E8%A1%8C%E8%A7%A3%E5%AF%86%E5%92%8C%E7%AD%BE%E5%90%8D%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（44）</span>
+            <p class="one-line-choice"><span class="number">（44）</span>
                 <span class="choice true">A．CA的签名</span>
                 <span class="choice false">B．证书中的公钥</span>
                 <span class="choice false">C．网站的私钥</span>
                 <span class="choice false">D．用户的公钥</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（45）</span>
+            <p class="one-line-choice"><span class="number">（45）</span>
                 <span class="choice false">A．CA的签名</span>
                 <span class="choice true">B．证书中的公钥</span>
                 <span class="choice false">C．网站的私钥</span>
                 <span class="choice false">D．用户的公钥</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（46）</span>
+            <p class="one-line-choice"><span class="number">（46）</span>
                 <span class="choice false">A．CA的签名</span>
                 <span class="choice false">B．证书中的公钥</span>
                 <span class="choice true">C．网站的私钥</span>
                 <span class="choice false">D．用户的公钥</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     一次送三分，大发慈悲啊。唯一要注意的是：数字证书里没有私钥。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">IPSec的加密和认证过程中所使用的密钥由 （47） 机制来生成和分发。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=IPSec%E7%9A%84%E5%8A%A0%E5%AF%86%E5%92%8C%E8%AE%A4%E8%AF%81%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%89%80%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AF%86%E9%92%A5%E7%94%B1%20%EF%BC%8847%EF%BC%89%20%E6%9C%BA%E5%88%B6%E6%9D%A5%E7%94%9F%E6%88%90%E5%92%8C%E5%88%86%E5%8F%91%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（47）</span>
+            <p class="one-line-choice"><span class="number">（47）</span>
                 <span class="choice false">A．ESP</span>
                 <span class="choice true">B．IKE</span>
                 <span class="choice false">C．TGS</span>
                 <span class="choice false">D．AH</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     AH（Authentication Header，认证头）是IPSec体系结构中的一种主要协议，它为IP数据报提供完整性检查与数据源认证，并防止重发攻击。<br />
                     AH不提供数据加密服务，加密服务由ESP（Encapsulating Security
                     Payload，封装安全载荷）提供。ESP提供数据内容的加密，根据用户安全要求，ESP既可以用于加密IP数据报的负载内容（如：TCP、UDP、ICMP、IGMP），也可以用于加密整个IP数据报。<br />
@@ -627,15 +627,15 @@
         </div>
         <div class="block">
             <p class="question">SSL协议使用的默认端口是 （48） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=SSL%E5%8D%8F%E8%AE%AE%E4%BD%BF%E7%94%A8%E7%9A%84%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E6%98%AF%20%EF%BC%8848%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（48）</span>
+            <p class="one-line-choice"><span class="number">（48）</span>
                 <span class="choice false">A．80</span>
                 <span class="choice false">B．445</span>
                 <span class="choice false">C．8080</span>
                 <span class="choice true">D．443</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
@@ -647,15 +647,15 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．192.24.0.0/16</p>
             <p class="choice false">&emsp;&emsp;D．192.24.0.0/24</p>
-            <p class="oneLineChoice"><span class="number">（50）</span>
+            <p class="one-line-choice"><span class="number">（50）</span>
                 <span class="choice true">A．2032</span>
                 <span class="choice false">B．2048</span>
                 <span class="choice false">C．2000</span>
                 <span class="choice false">D．2056</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     CIDR每次必考，原本不必多说，但50题的备选答案有些离奇。因此，请先看看下面这张图。<br />
                     §§<br />
                     由于主机位有11位，因此可分配的主机地址有2^11-2=2046。但是备选答案中没有2046，这就有些离奇了。首先，2048和2056两个答案都是可以排除的，接下来分析2032和2000两个备选答案。<br />
@@ -671,9 +671,9 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．220.117.8.0/21</p>
             <p class="choice false">&emsp;&emsp;D．220.117.12.0/21</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     略。</p>
             </div>
         </div>
@@ -685,9 +685,9 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．200.16.208.0/22</p>
             <p class="choice true">&emsp;&emsp;D．200.16.254.0/22</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     202.16.254.0/22是网络202.16.252.0/22中一个可分配主机地址。</p>
             </div>
         </div>
@@ -699,32 +699,32 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．12AB::CD30/60</p>
             <p class="choice false">&emsp;&emsp;D．12AB::CD3/60</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     略。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">IPv6协议数据单元由一个固定头部和若干个扩展头部以及上层协议提供的负载组成，其中用于标识松散源路由功能的扩展头是 （54） 。如果有多个扩展头部，第一个扩展头部为 （55）
                 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=IPv6%E5%8D%8F%E8%AE%AE%E6%95%B0%E6%8D%AE%E5%8D%95%E5%85%83%E7%94%B1%E4%B8%80%E4%B8%AA%E5%9B%BA%E5%AE%9A%E5%A4%B4%E9%83%A8%E5%92%8C%E8%8B%A5%E5%B9%B2%E4%B8%AA%E6%89%A9%E5%B1%95%E5%A4%B4%E9%83%A8%E4%BB%A5%E5%8F%8A%E4%B8%8A%E5%B1%82%E5%8D%8F%E8%AE%AE%E6%8F%90%E4%BE%9B%E7%9A%84%E8%B4%9F%E8%BD%BD%E7%BB%84%E6%88%90%EF%BC%8C%E5%85%B6%E4%B8%AD%E7%94%A8%E4%BA%8E%E6%A0%87%E8%AF%86%E6%9D%BE%E6%95%A3%E6%BA%90%E8%B7%AF%E7%94%B1%E5%8A%9F%E8%83%BD%E7%9A%84%E6%89%A9%E5%B1%95%E5%A4%B4%E6%98%AF%20%EF%BC%8854%EF%BC%89%20%E3%80%82%E5%A6%82%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%89%A9%E5%B1%95%E5%A4%B4%E9%83%A8%EF%BC%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%89%A9%E5%B1%95%E5%A4%B4%E9%83%A8%E4%B8%BA%20%EF%BC%8855%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（54）</span>
+            <p class="one-line-choice"><span class="number">（54）</span>
                 <span class="choice false">A．目标头部</span>
                 <span class="choice true">B．路由选择头部
                 </span>
                 <span class="choice false">C．分段头部</span>
                 <span class="choice false">D．安全封装负荷头部</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（55）</span>
+            <p class="one-line-choice"><span class="number">（55）</span>
                 <span class="choice true">A．逐跳头部</span>
                 <span class="choice false">B．路由选择头部
                 </span>
                 <span class="choice false">C．分段头部</span>
                 <span class="choice false">D．认证头部</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     IPv6首部的固定部分被简称为IPv6首部，其大小是40字节，而IPv4首部中的必要部分为20字节。IPv6已经定义了以下扩展首部：<br />
                     ★逐跳选项首部（Hop-by-Hop Options header）：定义需要逐跳处理的特殊选项；<br />
                     ★路由首部（Routing header）：提供扩展路由，类似于IPv4的源路由；<br />
@@ -752,9 +752,9 @@
             <p class="choice false">&emsp;&emsp;C．帧中继网可以提供永久虚电路和交换虚电路
             </p>
             <p class="choice true">&emsp;&emsp;D．帧中继虚电路建立在HDLC协议之上</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     FR的带宽控制技术是它的一大优点。在传统的数据通信业务中，用户预定了一条64Kbps的链路，那么就只能以64Kbps的速率传输。而在FR技术中，预定的是CIR（Committed
                     Information Rate，约定数据速率），即在正常状态下Tc（Committed Time
                     Interval，承诺时间间隔）内的数据速率平均值。在实际的数据传输过程中，用户能以高于64Kbps的速率传送数据。举例来说，一个用户预定了CIR=64Kbps的FR链路，并与FR业务供应商鉴定了另外两个指标：<br />
@@ -771,15 +771,15 @@
         </div>
         <div class="block">
             <p class="question">SNMP MIB中被管对象的Access属性不包括 （57） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=SNMP%20MIB%E4%B8%AD%E8%A2%AB%E7%AE%A1%E5%AF%B9%E8%B1%A1%E7%9A%84Access%E5%B1%9E%E6%80%A7%E4%B8%8D%E5%8C%85%E6%8B%AC%20%EF%BC%8857%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（57）</span>
+            <p class="one-line-choice"><span class="number">（57）</span>
                 <span class="choice false">A．只读</span>
                 <span class="choice false">B．只写</span>
                 <span class="choice false">C．可读写</span>
                 <span class="choice true">D．可执行</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     Designed to make access to Simple Network Management Protocol (SNMP) MIB objects easier, a set of
                     UNIX-like SNMP commands has been created. The Tcl shell is enabled either manually or by using a
                     Tcl script, and the new commands can be entered to allow you to perform specified get and set
@@ -789,16 +789,16 @@
         </div>
         <div class="block">
             <p class="question">汇聚层交换机应该实现多种功能，下面选项中，不属于汇聚层功能的是 （58） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%B1%87%E8%81%9A%E5%B1%82%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%BA%94%E8%AF%A5%E5%AE%9E%E7%8E%B0%E5%A4%9A%E7%A7%8D%E5%8A%9F%E8%83%BD%EF%BC%8C%E4%B8%8B%E9%9D%A2%E9%80%89%E9%A1%B9%E4%B8%AD%EF%BC%8C%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%B1%87%E8%81%9A%E5%B1%82%E5%8A%9F%E8%83%BD%E7%9A%84%E6%98%AF%20%EF%BC%8858%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（58）</span>
+            <p class="one-line-choice"><span class="number">（58）</span>
                 <span class="choice false">A．VLAN间的路由选择</span>
                 <span class="choice true">B．用户访问控制
                 </span>
                 <span class="choice false">C．分组过滤</span>
                 <span class="choice false">D．组播管理</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     汇聚层是楼群或小区的信息汇聚点，是连接接入层与核心层的网络设备，为接入层提供数据的汇聚、传输、管理和分发处理。汇聚层为接入层提供基于策略的连接，如地址合并、协议过滤、路由服务、认证管理等，通过网段划分（如VLAN）与网络隔离可以防止某些网段的问题蔓延和影响到核心层。汇聚层同时也可以提供接入层虚拟网之间的互联，控制和限制接入层对核心层的访问，保证核心层的安全和稳定。<br />
                     汇聚层设备一般采用可管理的三层交换机或堆叠式交换机以达到带宽和传输性能的要求。其设备性能较好，但价格高于接入层设备，而且对环境的要求也较高，对电磁辐射、温度、湿度和空气洁净度等都有一定的要求。汇聚层设备之间以及汇聚层设备与核心层设备之间多采用光纤互联，以提高系统的传输性能和吞吐量。<br />
                     一般来说，用户访问控制会安排在接入层，但这并非绝对，也可以安排在汇聚层进行。在汇聚层实现安全控制和身份认证时，采用的是集中式的管理模式。当网络规模较大时，可以设计综合安全管理策略，例如在接入层实现身份认证和MAC地址绑定，在汇聚层实现流量控制和访问权限约束。<br />
@@ -807,31 +807,31 @@
         </div>
         <div class="block">
             <p class="question">交换机命令Switch>enable的作用是 （59） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%91%BD%E4%BB%A4Switch%3Eenable%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%20%EF%BC%8859%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（59）</span>
+            <p class="one-line-choice"><span class="number">（59）</span>
                 <span class="choice false">A．配置访问口令</span>
                 <span class="choice false">B．进入配置模式
                 </span>
                 <span class="choice true">C．进入特权模式</span>
                 <span class="choice false">D．显示当前模式</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">IEEE 802.1q协议的作用是 （60） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=IEEE%20802.1q%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%20%EF%BC%8860%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（60）</span>
+            <p class="one-line-choice"><span class="number">（60）</span>
                 <span class="choice false">A．生成树协议</span>
                 <span class="choice false">B．以太网流量控制
                 </span>
                 <span class="choice true">C．生成VLAN标记</span>
                 <span class="choice false">D．基于端口的认证</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     IEEE 802.1q 标准为标识带有VLAN 成员信息的以太帧建立了一种标准方法。IEEE 802.1q 标准定义了 VLAN 网桥操作，从而允许在桥接局域网结构中实现定义、运行以及管理VLAN
                     拓扑结构等操作。IEEE 802.1q 标准主要用来解决如何将大型网络划分为多个小网络，以使广播和组播流量不会占据更多带宽。此外 IEEE 802.1q 标准还提供更高的网络段间安全性。</p>
             </div>
@@ -846,9 +846,9 @@
             <p class="choice false">&emsp;&emsp;C．P坚持型监听算法无法减少网络的空闲时间
             </p>
             <p class="choice true">&emsp;&emsp;D．坚持型监听算法能够及时抢占信道</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     按总线争用协议来分类，CSMA有三种类型：<br />
                     1）非坚持CSMA。一个站点在发送数据帧之前，先要对媒体进行检测。如果没有其它站点在发送数据，则该站点开始发送数据。如果媒体被占用，则该站点不会持续监听媒体，而等待一个随机的延迟时间之后再监听。采用随机的监听延迟时间可以减少冲突的可能性，但其缺点也是很明显的：即使有多个站点有数据要发送，因为此时所有站点可能都在等待各自的随机延迟时间，而媒体仍然可能处于空闲状态，这样就使得媒体的利用率较为低下。<br />
                     2）1-坚持CSMA。当一个站点要发送数据帧时，它就监听媒体，判断当前时刻是否有其他站点正在传输数据。如果媒体忙的话，该站点等待直至媒体空闲。一旦该站点检测到媒体空闲，它就立即发送数据帧。如果产生冲突，则等待一个随机时间再监听。之所以叫“1-坚持”，是因为当一个站点发现媒体空闲的时候，它传输数据帧的概率是1。1-坚持CSMA的优点是：只要媒体空闲，站点就立即发送；它的缺点在于：假如有两个或两个以上的站点有数据要发送，冲突就不可避免。<br />
@@ -868,9 +868,9 @@
             <p class="choice false">&emsp;&emsp;C．查询211.151.91.165的资源记录类型
             </p>
             <p class="choice false">&emsp;&emsp;D．显示211.151.91.165中各种可用的信息资源记录</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     运行nslookup，执行help。解释set type=X的作用为“set query type(ex. A, AAAA, A+AAAA, ANY, CNAME, MX, NS, PTR,
                     SOA, SRV)”根据这个解析，应该选B。</p>
             </div>
@@ -883,24 +883,24 @@
             </p>
             <p class="choice false">&emsp;&emsp;C．在ARP表中删除一个表项</p>
             <p class="choice false">&emsp;&emsp;D．在ARP表中修改一个表项</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     s是static的缩写。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">开放系统的数据存储有多种方式，属于网络化存储的是 （64） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%BC%80%E6%94%BE%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E6%9C%89%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E5%B1%9E%E4%BA%8E%E7%BD%91%E7%BB%9C%E5%8C%96%E5%AD%98%E5%82%A8%E7%9A%84%E6%98%AF%20%EF%BC%8864%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（64）</span>
+            <p class="one-line-choice"><span class="number">（64）</span>
                 <span class="choice false">A．内置式存储和DAS</span>
                 <span class="choice false">B．DAS和NAS
                 </span>
                 <span class="choice false">C．DAS和SAN</span>
                 <span class="choice true">D．NAS和SAN</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     DAS（Direct Attached Storage，直接连接存储）将磁盘阵列、磁带库等数据存储设备通过扩展接口（通常是SCSI接口）直接连接到服务器或客户端。<br />
                     NAS（Network Attached Storage，网络连接存储）与DAS不同，它的存储设备不是直接连接到服务器，而是直接连接到网络，通过标准的网络拓扑结构连接到服务器。<br />
                     SAN（Storage Area Network ，存储区域网络）是一种通过专用传输通道（光纤通道或IP网络）连接存储设备和相关服务器的存储结构。</p>
@@ -914,9 +914,9 @@
             </p>
             <p class="choice true">&emsp;&emsp;C．为了解决隐蔽终端问题</p>
             <p class="choice false">&emsp;&emsp;D．为了引进其他业务</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     CSMA/CA（Carrier Sense Multiple Access with Collision Avoidance，载波侦听多路访问/避免冲突）是IEEE
                     802.11无线局域网的MAC子层协议，主要用于解决无线局域网的信道共享访问问题。而在传统以太网中，MAC子层采用CSMA/CD（Carrier Sense Multiple Access with
                     Collision
@@ -932,24 +932,24 @@
             <p class="choice false">&emsp;&emsp;C．各楼层设备之间的互连系统
             </p>
             <p class="choice false">&emsp;&emsp;D．连接各个建筑物的通信系统</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
         <div class="block">
             <p class="question">EIA/TIA-568标准规定，在综合布线时，如果信息插座到网卡之间使用无屏蔽双绞线，布线距离最大为 （67） 米。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=EIA/TIA-568%E6%A0%87%E5%87%86%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%9C%A8%E7%BB%BC%E5%90%88%E5%B8%83%E7%BA%BF%E6%97%B6%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E6%8F%92%E5%BA%A7%E5%88%B0%E7%BD%91%E5%8D%A1%E4%B9%8B%E9%97%B4%E4%BD%BF%E7%94%A8%E6%97%A0%E5%B1%8F%E8%94%BD%E5%8F%8C%E7%BB%9E%E7%BA%BF%EF%BC%8C%E5%B8%83%E7%BA%BF%E8%B7%9D%E7%A6%BB%E6%9C%80%E5%A4%A7%E4%B8%BA%20%EF%BC%8867%EF%BC%89%20%E7%B1%B3%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（67）</span>
+            <p class="one-line-choice"><span class="number">（67）</span>
                 <span class="choice true">A．10</span>
                 <span class="choice false">B．30</span>
                 <span class="choice false">C．50</span>
                 <span class="choice false">D．100</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     工作区子系统指信息插座与数据终端之间的连接设置系统，由从信息插座延伸至数据终端设备的连接线缆和适配器组成。它一般使用软线（Patch
                     Cable）材料（例如UTP/STP）实现终端设备与信息插座之间的连接。工作区的跳线（Patch
                     Cord）、连接设备的跳线、交叉连接（Cross-Connection）线的总长度一般不超过10米。其中交叉连接线或跳线的长度不应超过5米。</p>
@@ -958,16 +958,16 @@
         <div class="block">
             <p class="question">网络安全体系设计可从物理线路安全、网络安全、系统安全、应用安全等方面来进行，其中数据库容灾属于 （68） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%BD%93%E7%B3%BB%E8%AE%BE%E8%AE%A1%E5%8F%AF%E4%BB%8E%E7%89%A9%E7%90%86%E7%BA%BF%E8%B7%AF%E5%AE%89%E5%85%A8%E3%80%81%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E3%80%81%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E3%80%81%E5%BA%94%E7%94%A8%E5%AE%89%E5%85%A8%E7%AD%89%E6%96%B9%E9%9D%A2%E6%9D%A5%E8%BF%9B%E8%A1%8C%EF%BC%8C%E5%85%B6%E4%B8%AD%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%B9%E7%81%BE%E5%B1%9E%E4%BA%8E%20%EF%BC%8868%EF%BC%89%20%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（68）</span>
+            <p class="one-line-choice"><span class="number">（68）</span>
                 <span class="choice false">A．物理线路安全和网络安全</span>
                 <span class="choice false">B．应用安全和网络安全
                 </span>
                 <span class="choice false">C．系统安全和网络安全</span>
                 <span class="choice true">D．系统安全和应用安全</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
@@ -980,9 +980,9 @@
             <p class="choice false">&emsp;&emsp;C．由多台二、三层交换机组成
             </p>
             <p class="choice false">&emsp;&emsp;D．提供多条路径来缓解通信瓶颈</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     核心层是各区域网络中所有通信流量的最终汇集点和承受者，用于实现骨干网络数据的优化传输，其主要特征是冗余设计、负载均衡、高带宽和高吞吐率。由于核心层的目标是快速传递分组，因此不宜集成控制功能和分组处理功能，而且传输带宽必须是千兆或万兆级的。<br />
                     核心层作为网络骨干和核心，其设备多由核心路由器、多层交换机和服务器群组成，具备高性能、高扩展性、高可靠性，以及强有力的网络控制能力和管理特性。各设备之间通常采用光纤进行点对点连接，并设计冗余线路，以提高传输速率和可靠性。</p>
             </div>
@@ -996,9 +996,9 @@
             <p class="choice false">&emsp;&emsp;C．根据需求规范和通信规范，实施资源分配和安全规划
             </p>
             <p class="choice false">&emsp;&emsp;D．理解网络应该具有的功能和性能，最终设计出符合用户需求的网络</p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     常识。</p>
             </div>
         </div>
@@ -1012,39 +1012,39 @@
                 load balancing distributes the （74） across the possible routes in a manner proportional to the route
                 metrics. Per-destination load balancing distributes packets across the possible routes based on （75）
                 .&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=Routing%20protocols%20use%20different%20techniques%20for%20assigning%20%EF%BC%8871%EF%BC%89%20to%20individual%20network.%20Further%2C%20each%20routing%20protocol%20forms%20a%20metric%20aggregation%20in%20a%20different%20way.%20Most%20routing%20protocols%20can%20use%20multiple%20paths%20if%20the%20paths%20has%20an%20equal%20%EF%BC%8872%EF%BC%89%20.%20Some%20routing%20protocols%20can%20even%20use%20multiple%20paths%20when%20paths%20have%20an%20unequal%20cost.%20In%20either%20case%2C%20load%20%EF%BC%8873%EF%BC%89%20can%20improve%20overall%20allocation%20of%20network%20bandwidth.%20When%20multiple%20paths%20are%20used%2C%20there%20are%20several%20ways%20to%20distribute%20the%20packets.%20The%20two%20most%20common%20mechanisms%20are%20per-packet%20load%20balancing%20and%20per-destination%20load%20balancing.%20Per-packet%20load%20balancing%20distributes%20the%20%EF%BC%8874%EF%BC%89%20across%20the%20possible%20routes%20in%20a%20manner%20proportional%20to%20the%20route%20metrics.%20Per-destination%20load%20balancing%20distributes%20packets%20across%20the%20possible%20routes%20based%20on%20%EF%BC%8875%EF%BC%89%20.">百度</a></p>
-            <p class="oneLineChoice"><span class="number">（71）</span>
+            <p class="one-line-choice"><span class="number">（71）</span>
                 <span class="choice false">A．calls</span>
                 <span class="choice true">B．metrics</span>
                 <span class="choice false">C．links</span>
                 <span class="choice false">D．destinations</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（72）</span>
+            <p class="one-line-choice"><span class="number">（72）</span>
                 <span class="choice false">A．user</span>
                 <span class="choice false">B．distance</span>
                 <span class="choice false">C．entity</span>
                 <span class="choice true">D．cost</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（73）</span>
+            <p class="one-line-choice"><span class="number">（73）</span>
                 <span class="choice false">A．bracketing</span>
                 <span class="choice true">B．balancing</span>
                 <span class="choice false">C．downloading</span>
                 <span class="choice false">D．transmitting</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（74）</span>
+            <p class="one-line-choice"><span class="number">（74）</span>
                 <span class="choice false">A．destinations</span>
                 <span class="choice false">B．resources</span>
                 <span class="choice true">C．packets</span>
                 <span class="choice false">D．sources</span>
             </p>
-            <p class="oneLineChoice"><span class="number">（75）</span>
+            <p class="one-line-choice"><span class="number">（75）</span>
                 <span class="choice true">A．destinations</span>
                 <span class="choice false">B．resources</span>
                 <span class="choice false">C．packets</span>
                 <span class="choice false">D．sources</span>
             </p>
-            <div class="explainBlock">
-                <p class="explainHeader"> 试题解析：</p>
-                <p class="explain">
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
                     略。</p>
             </div>
         </div>

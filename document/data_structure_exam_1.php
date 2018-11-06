@@ -32,7 +32,7 @@
         <div class="block">
             <p class="question"><span class="number">（2）</span>
                 用链接方式存储的队列，在进行插入运算时( ).&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%94%A8%E9%93%BE%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AD%98%E5%82%A8%E7%9A%84%E9%98%9F%E5%88%97%EF%BC%8C%E5%9C%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E8%BF%90%E7%AE%97%E6%97%B6%28%20%20%20%29.">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A.仅修改头指针　</span>
+            <p class="one-line-choice"><span class="choice false">A.仅修改头指针　</span>
                 <span class="choice false">B.头、尾指针都要修改</span>
                 <span class="choice false">C.仅修改尾指针</span>
                 <span class="choice true">D.头、尾指针可能都要修改</span>
@@ -41,7 +41,7 @@
         <div class="block">
             <p class="question"><span class="number">（3）</span>
                 以下数据结构中哪一个是非线性结构？( )&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BB%A5%E4%B8%8B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E5%93%AA%E4%B8%80%E4%B8%AA%E6%98%AF%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84%EF%BC%9F%28%20%20%20%29">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A.队列　　</span>
+            <p class="one-line-choice"><span class="choice false">A.队列　　</span>
                 <span class="choice false">B.栈</span>
                 <span class="choice false">C.线性表　　</span>
                 <span class="choice true">D.二叉树</span>
@@ -51,7 +51,7 @@
             <p class="question"><span class="number">（4）</span>
                 设有一个二维数组A[m][n]，假设A[0][0]存放位置在644<sub>(10)</sub>，A[2][2]存放位置在676<sub>(10)</sub>，每个元素占一个空间，问A[3][3]<sub>(10)</sub>存放在什么位置？脚注<sub>(10)</sub>表示用10进制表示。&emsp;<a
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%AE%BE%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84A%5Bm%5D%5Bn%5D%EF%BC%8C%E5%81%87%E8%AE%BEA%5B0%5D%5B0%5D%E5%AD%98%E6%94%BE%E4%BD%8D%E7%BD%AE%E5%9C%A8644%2810%29%EF%BC%8CA%5B2%5D%5B2%5D%E5%AD%98%E6%94%BE%E4%BD%8D%E7%BD%AE%E5%9C%A8676%2810%29%EF%BC%8C%E6%AF%8F%E4%B8%AA%E5%85%83%E7%B4%A0%E5%8D%A0%E4%B8%80%E4%B8%AA%E7%A9%BA%E9%97%B4%EF%BC%8C%E9%97%AEA%5B3%5D%5B3%5D%2810%29%E5%AD%98%E6%94%BE%E5%9C%A8%E4%BB%80%E4%B9%88%E4%BD%8D%E7%BD%AE%EF%BC%9F%E8%84%9A%E6%B3%A8%2810%29%E8%A1%A8%E7%A4%BA%E7%94%A810%E8%BF%9B%E5%88%B6%E8%A1%A8%E7%A4%BA%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A．688</span>
+            <p class="one-line-choice"><span class="choice false">A．688</span>
                 <span class="choice false">B．678</span>
                 <span class="choice true">C．692</span>
                 <span class="choice false">D．696</span>
@@ -68,7 +68,7 @@
         <div class="block">
             <p class="question"><span class="number">（6）</span>
                 二叉树的第k层的结点数最多为( ).&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%AC%ACk%E5%B1%82%E7%9A%84%E7%BB%93%E7%82%B9%E6%95%B0%E6%9C%80%E5%A4%9A%E4%B8%BA%28%20%20%29.">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A．2<sup>k</sup>-1</span>
+            <p class="one-line-choice"><span class="choice false">A．2<sup>k</sup>-1</span>
                 <span class="choice false">B.2K+1</span>
                 <span class="choice false">C.2K-1</span>
                 <span class="choice true">D.2<sup>k-1</sup></span>
@@ -86,7 +86,7 @@
         <div class="block">
             <p class="question"><span class="number">（8）</span>
                 对n个记录的文件进行快速排序，所需要的辅助存储空间大致为&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%AF%B9n%E4%B8%AA%E8%AE%B0%E5%BD%95%E7%9A%84%E6%96%87%E4%BB%B6%E8%BF%9B%E8%A1%8C%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%EF%BC%8C%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E8%BE%85%E5%8A%A9%E5%AD%98%E5%82%A8%E7%A9%BA%E9%97%B4%E5%A4%A7%E8%87%B4%E4%B8%BA">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A.O（1）　　</span>
+            <p class="one-line-choice"><span class="choice false">A.O（1）　　</span>
                 <span class="choice false">B.O（n）　　</span>
                 <span class="choice true">C.O（1og<sub>2</sub>n）</span>
                 <span class="choice false">D.O（n<sup>2</sup>）</span>
@@ -96,7 +96,7 @@
             <p class="question"><span class="number">（9）</span>
                 对于线性表（7，34，55，25，64，46，20，10）进行散列存储时，若选用H（K）=K %9作为散列函数，则散列地址为1的元素有（ ）个，&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E5%AF%B9%E4%BA%8E%E7%BA%BF%E6%80%A7%E8%A1%A8%EF%BC%887%EF%BC%8C34%EF%BC%8C55%EF%BC%8C25%EF%BC%8C64%EF%BC%8C46%EF%BC%8C20%EF%BC%8C10%EF%BC%89%E8%BF%9B%E8%A1%8C%E6%95%A3%E5%88%97%E5%AD%98%E5%82%A8%E6%97%B6%EF%BC%8C%E8%8B%A5%E9%80%89%E7%94%A8H%EF%BC%88K%EF%BC%89%3DK%20%259%E4%BD%9C%E4%B8%BA%E6%95%A3%E5%88%97%E5%87%BD%E6%95%B0%EF%BC%8C%E5%88%99%E6%95%A3%E5%88%97%E5%9C%B0%E5%9D%80%E4%B8%BA1%E7%9A%84%E5%85%83%E7%B4%A0%E6%9C%89%EF%BC%88%20%20%20%EF%BC%89%E4%B8%AA%EF%BC%8C">百度</a></p>
-            <p class="oneLineChoice"><span class="choice false">A．1</span>
+            <p class="one-line-choice"><span class="choice false">A．1</span>
                 <span class="choice false">B．2</span>
                 <span class="choice false">C．3</span>
                 <span class="choice true">D．4</span>
@@ -105,7 +105,7 @@
         <div class="block">
             <p class="question"><span class="number">（10）</span>
                 设有6个结点的无向图，该图至少应有( )条边才能确保是一个连通图。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%AE%BE%E6%9C%896%E4%B8%AA%E7%BB%93%E7%82%B9%E7%9A%84%E6%97%A0%E5%90%91%E5%9B%BE%EF%BC%8C%E8%AF%A5%E5%9B%BE%E8%87%B3%E5%B0%91%E5%BA%94%E6%9C%89%28%20%20%20%20%20%20%29%E6%9D%A1%E8%BE%B9%E6%89%8D%E8%83%BD%E7%A1%AE%E4%BF%9D%E6%98%AF%E4%B8%80%E4%B8%AA%E8%BF%9E%E9%80%9A%E5%9B%BE%E3%80%82">百度</a></p>
-            <p class="oneLineChoice"><span class="choice true">A.5</span>
+            <p class="one-line-choice"><span class="choice true">A.5</span>
                 <span class="choice false">B.6</span>
                 <span class="choice false">C.7</span>
                 <span class="choice false">D.8</span>

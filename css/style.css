@@ -114,19 +114,23 @@ ul.container-nav li a:hover {
     }
 }
 
-.explain,.answer,.answer-code{
+.explain{
+
+}
+
+.explain-content,.answer,.answer-code{
     background-color:rgb(250, 207, 115) ;
     color: rgb(250, 207, 115);
     border-radius: 3px;
     padding: 0.3em;
 }
 
-.explain:hover,.answer:hover,.answer-code:hover{
+.explain-content:hover,.answer:hover,.answer-code:hover{
     background-color:rgb(250, 194, 73) ;
     color: rgb(250, 194, 73);
 }
 
-.explainHeader{
+.explain-header{
     font-weight: bold;
     color: rgb(2, 58, 240);
 }
@@ -148,7 +152,7 @@ ul.container-nav li a:hover {
     background-color: rgb(214, 250, 250);
 }
 
-.oneLineChoice .choice{
+.one-line-choice .choice{
     padding-left: 1.5em;
     padding-right: 1.5em;
     line-height: 2em;
