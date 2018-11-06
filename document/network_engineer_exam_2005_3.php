@@ -56,7 +56,7 @@
         <div class="block">
             <p class="question">某计算机系统的可靠性结构是如下图所示的双重串并联结构，若所构成系统的每个部件的可靠度为 0．9 ，即 R=0．9 ，则系统的可靠度为 （3） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E9%9D%A0%E6%80%A7%E7%BB%93%E6%9E%84%E6%98%AF%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E5%8F%8C%E9%87%8D%E4%B8%B2%E5%B9%B6%E8%81%94%E7%BB%93%E6%9E%84%EF%BC%8C%E8%8B%A5%E6%89%80%E6%9E%84%E6%88%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%AF%8F%E4%B8%AA%E9%83%A8%E4%BB%B6%E7%9A%84%E5%8F%AF%E9%9D%A0%E5%BA%A6%E4%B8%BA%200%EF%BC%8E9%20%EF%BC%8C%E5%8D%B3%20R%3D0%EF%BC%8E9%20%EF%BC%8C%E5%88%99%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E9%9D%A0%E5%BA%A6%E4%B8%BA%20%EF%BC%883%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <p class="one-line-choice"><span class="number">（3）</span>
@@ -96,7 +96,7 @@
 
                     执行500条指令的时间=500*5+5+5=2510</p>
             </div>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i2" />
             </div>
         </div>
@@ -163,7 +163,7 @@
         </div>
         <div class="block">
             <p class="question">在下图所示的树型文件中，方框表示目录，圆圈表示文件，“/”表示路径的分隔符“/”路径之首时表示根目录。图中， （10） 。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
                 假设当前目录是 D1，进程 A 以如下两种方式打开文件 f1 ：<br />
@@ -233,7 +233,7 @@
         </div>
         <div class="block">
             <p class="question">双极型AMI编码经过一个噪声信道，接收的波形如图所示，那么出错的是第 （15）位。 &emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%8F%8C%E6%9E%81%E5%9E%8BAMI%E7%BC%96%E7%A0%81%E7%BB%8F%E8%BF%87%E4%B8%80%E4%B8%AA%E5%99%AA%E5%A3%B0%E4%BF%A1%E9%81%93%EF%BC%8C%E6%8E%A5%E6%94%B6%E7%9A%84%E6%B3%A2%E5%BD%A2%E5%A6%82%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E9%82%A3%E4%B9%88%E5%87%BA%E9%94%99%E7%9A%84%E6%98%AF%E7%AC%AC%20%EF%BC%8815%EF%BC%89%E4%BD%8D%E3%80%82%20%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i4" />
             </div>
             <p class="one-line-choice"><span class="number">（15）</span>

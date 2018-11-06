@@ -27,7 +27,7 @@
             <p class="p1"> 阅读以下说明，回答问题（1）～（5），将答案填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2"> 某校园网结构如图C3-1-1所示，采用一个无线网络控制器来自动探测、监控、管理无线 AP。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i1" />
                 </div>
                 无线校园网解决方案中采用 Web ＋ DHCP 方式解决用户接入问题，当用户连上无线接入点，由无线网络控制器为用户自动的分配 IP 地址，基于 Web 的认证成功后即可访问 Internet 。认证过程采用
@@ -35,7 +35,7 @@
             </p>
             <h4 class="q">【问题1】（4分）</h4>
             <p class="question"> 从表C3-1-1中选择合适的设备，将图C3-1-1中（1）～（4）处空缺设备名称填写在答题纸相应位置（每个设备限选一次）。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i2" />
                 </div>
             </p>
@@ -95,7 +95,7 @@
                 指定的 DNS 服务器是：192.168.1.1和192.168.1.2</p>
             <h4 class="q">【问题3】（3分）</h4>
             <p class="question"> 该配置文件的12－15行实现什么配置功能？、
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
                 图C3-2-1</p>
@@ -112,7 +112,7 @@
             <h4 class="e">【说明】</h4>
             <p class="p2"> 某企业采用 Windows2000 操作系统部署企业虚拟专用网（VPN），将企业的两个异地网络通过公共 Internet 安全的互联起来。微软 Windows2000 操作系统当中对
                 IPSec 具备完善的支持，下图给出了基于 Windows2000 系统部署 IPSec VPN 的网络结构图。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i4" />
                 </div>
             </p>
@@ -134,7 +134,7 @@
             <h4 class="q">【问题4】（3分）</h4>
             <p class="question"> 在 Internet 上捕获并分析两个内部网络经由 Internet 通信的 IP 包，在下列三个选项中选择正确选项填写到图3-2中相应空缺处。<br />
                 （a）ESP 头 （b）封装后的IP包头 （c）封装前的IP头<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i5" />
                 </div>
             </p>
@@ -146,7 +146,7 @@
             <p class="p1">请认真阅读下列关于计算机网络防火墙的说明信息，回答问题1－5。将答案填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2"> 某单位的内部局域网通过防火墙与外部网络的连接方式及相关的网络参数如图 C3-4-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i6" />
                 </div>
             </p>
@@ -238,7 +238,7 @@
             <p class="p1">阅读以下说明，回答问题1～5，将答案填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2"> 利用 VLAN 技术可以把物理上连接的网络从逻辑上划分为多个虚拟子网，可以对各个子网实施不同的管理策略。图C3-5-1表示两个交换机相连，把 6 台计算机配置成连个 VLAN 。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i7" />
                 </div>
             </p>

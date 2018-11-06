@@ -24,7 +24,7 @@
         <div class="block">
             <p class="question">高速缓存Cache与主存间采用全相联的地址影像方式，高速缓存的容量为4MB，分为4块，每块1MB，主存容量为256MB，若主存读写时间为30ns，高速缓存的读写时间为3ns，平均读写时间为3.27ns，则该高速缓存的命中率为
                 （1） %。若地址更换表如下所示，则主存地址为8888888H时，高速缓存地址为 （2） H。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98Cache%E4%B8%8E%E4%B8%BB%E5%AD%98%E9%97%B4%E9%87%87%E7%94%A8%E5%85%A8%E7%9B%B8%E8%81%94%E7%9A%84%E5%9C%B0%E5%9D%80%E5%BD%B1%E5%83%8F%E6%96%B9%E5%BC%8F%EF%BC%8C%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E5%AE%B9%E9%87%8F%E4%B8%BA4MB%EF%BC%8C%E5%88%86%E4%B8%BA4%E5%9D%97%EF%BC%8C%E6%AF%8F%E5%9D%971MB%EF%BC%8C%E4%B8%BB%E5%AD%98%E5%AE%B9%E9%87%8F%E4%B8%BA256MB%EF%BC%8C%E8%8B%A5%E4%B8%BB%E5%AD%98%E8%AF%BB%E5%86%99%E6%97%B6%E9%97%B4%E4%B8%BA30ns%EF%BC%8C%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E8%AF%BB%E5%86%99%E6%97%B6%E9%97%B4%E4%B8%BA3ns%EF%BC%8C%E5%B9%B3%E5%9D%87%E8%AF%BB%E5%86%99%E6%97%B6%E9%97%B4%E4%B8%BA3.27ns%EF%BC%8C%E5%88%99%E8%AF%A5%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E7%9A%84%E5%91%BD%E4%B8%AD%E7%8E%87%E4%B8%BA%20%EF%BC%881%EF%BC%89%20%25%E3%80%82%E8%8B%A5%E5%9C%B0%E5%9D%80%E6%9B%B4%E6%8D%A2%E8%A1%A8%E5%A6%82%E4%B8%8B%E6%89%80%E7%A4%BA%EF%BC%8C%E5%88%99%E4%B8%BB%E5%AD%98%E5%9C%B0%E5%9D%80%E4%B8%BA8888888H%E6%97%B6%EF%BC%8C%E9%AB%98%E9%80%9F%E7%BC%93%E5%AD%98%E5%9C%B0%E5%9D%80%E4%B8%BA%20%EF%BC%882%EF%BC%89%20H%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <p class="one-line-choice"><span class="number">（1）</span>
@@ -177,7 +177,7 @@
         </div>
         <div class="block">
             <p class="question">某IP网络连接如下图所示，在这种配置下IP全局广播分组不能够通过的路径是 （12） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%9F%90IP%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E5%9C%A8%E8%BF%99%E7%A7%8D%E9%85%8D%E7%BD%AE%E4%B8%8BIP%E5%85%A8%E5%B1%80%E5%B9%BF%E6%92%AD%E5%88%86%E7%BB%84%E4%B8%8D%E8%83%BD%E5%A4%9F%E9%80%9A%E8%BF%87%E7%9A%84%E8%B7%AF%E5%BE%84%E6%98%AF%20%EF%BC%8812%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%20%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i2" />
             </div>
             <p class="choice header_choice false"><span class="number">（12） </span>A．计算机P和计算机Q之间的路径
@@ -217,7 +217,7 @@
                     只有信息帧（I）的控制字段包含发送顺序号N(S)，因此B是错误的。<br />
                     若信息帧（I）的控制字段是8位，则N(R)占3位，其二进制的取值范围是000～111，对应十进制的取值范围是0～7，所以C是错误的。<br />
                     HDLC的发送器在发送一个信息帧（I）后，不会立即滑动窗口。只有收到了接收器发回的确认后，窗口才会滑动。所以D是错误的。</p>
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
             </div>
@@ -333,7 +333,7 @@
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
                     X.25的协议结构图如下：</p>
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i4" />
                 </div>
             </div>
@@ -529,7 +529,7 @@
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
                     各个选项对应的守护进程如下表：</p>
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i5" />
                 </div>
             </div>
@@ -736,7 +736,7 @@
                     Authority，Internet地址分配机构）申请，可以自行分配。由于私有地址不能保证全局的唯一性，因此Internet中的路由器不会转发私有地址的数据报。私有地址表如表7-19所示：<br />
                     表7-1 私有IP地址表<br />
                     由表可知，172.16.32.1是属于私有地址。</p>
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i6" />
                 </div>
             </div>
@@ -779,7 +779,7 @@
         <div class="block">
             <p class="question">3台路由器的连接与IP地址分配如下图所示，在R2中配置到达子网192.168.1.0/24的静态路由的命令是 （51） 。&emsp;<a class="baidu"
                     target="_blank" href="https://www.baidu.com/s?wd=3%E5%8F%B0%E8%B7%AF%E7%94%B1%E5%99%A8%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%B8%8EIP%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E5%9C%A8R2%E4%B8%AD%E9%85%8D%E7%BD%AE%E5%88%B0%E8%BE%BE%E5%AD%90%E7%BD%91192.168.1.0/24%E7%9A%84%E9%9D%99%E6%80%81%E8%B7%AF%E7%94%B1%E7%9A%84%E5%91%BD%E4%BB%A4%E6%98%AF%20%EF%BC%8851%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i7" />
             </div>
             <p class="choice header_choice true"><span class="number">（51） </span>A．R2(config)#iproute192.168.1.0255.255.255.010.1.1.1
@@ -798,7 +798,7 @@
         <div class="block">
             <p class="question">网络连接和IP地址分配如下图所示，并且配置了RIPv2路由协议。如果路由器R1上运行命令：R1 # show ip route，下面4条显示信息中正确的是 （52）
                 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E5%92%8CIP%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E5%B9%B6%E4%B8%94%E9%85%8D%E7%BD%AE%E4%BA%86RIPv2%E8%B7%AF%E7%94%B1%E5%8D%8F%E8%AE%AE%E3%80%82%E5%A6%82%E6%9E%9C%E8%B7%AF%E7%94%B1%E5%99%A8R1%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%91%BD%E4%BB%A4%EF%BC%9AR1%20%23%20show%20ip%20route%EF%BC%8C%E4%B8%8B%E9%9D%A24%E6%9D%A1%E6%98%BE%E7%A4%BA%E4%BF%A1%E6%81%AF%E4%B8%AD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%98%AF%20%EF%BC%8852%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i8" />
             </div>
             <p class="choice header_choice false"><span class="number">（52） </span>A．R192.168.1.0[120/1]via192.168.66.100:00:15Ethernet0
@@ -817,7 +817,7 @@
         <div class="block">
             <p class="question">路由器R1的连接和地址分配如下图所示，如果在R1上安装OSPF协议，运行下列命令：router ospf 100，则配置S0和E0端口的命令是 （53） 。&emsp;<a
                     class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E8%B7%AF%E7%94%B1%E5%99%A8R1%E7%9A%84%E8%BF%9E%E6%8E%A5%E5%92%8C%E5%9C%B0%E5%9D%80%E5%88%86%E9%85%8D%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%9C%A8R1%E4%B8%8A%E5%AE%89%E8%A3%85OSPF%E5%8D%8F%E8%AE%AE%EF%BC%8C%E8%BF%90%E8%A1%8C%E4%B8%8B%E5%88%97%E5%91%BD%E4%BB%A4%EF%BC%9Arouter%20ospf%20100%EF%BC%8C%E5%88%99%E9%85%8D%E7%BD%AES0%E5%92%8CE0%E7%AB%AF%E5%8F%A3%E7%9A%84%E5%91%BD%E4%BB%A4%E6%98%AF%20%EF%BC%8853%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i9" />
             </div>
             <p class="choice header_choice false"><span class="number">（53） </span>A．network192.100.10.50.0.0.3area0

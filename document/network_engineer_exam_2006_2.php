@@ -27,7 +27,7 @@
             <p class="p1">阅读以下说明，回答问题1至问题5，将解答填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2">某小区采用HFC接入Internet的解决方案进行网络设计，网络结构如图C4-1-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i1" />
                 </div>
             </p>
@@ -187,7 +187,7 @@
             <p class="p1">阅读以下说明，回答问题1至问题6，将解答填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2">某单位局域网通过ISP提供的宽带线路与Internet相连，ISP分配的公网IP地址为202.117.12.32/29，局域网中一部分计算机通过代理服务器访问Internet，而另一部分计算机不经过代理服务器直接访问Internet。其网络连接方式及相关的网络参数如图C4-3-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="2" />
                 </div>
             </p>
@@ -199,7 +199,7 @@
                 区域（B）计算机“IP地址”（范围）： （4） ；<br />
                 区域（B）计算机“子网掩码”： （5） ；<br />
                 区域（B）计算机“默认网关”： （6） 。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
             </p>
@@ -230,7 +230,7 @@
             <p class="p1">阅读下列说明，回答问题1至问题6，将解答填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2">某公司的业务员甲与客户乙通过Internet交换商业电子邮件。为保障邮件内容的安全，采用安全电子邮件技术对邮件内容进行加密和数字签名。安全电子邮件技术的实现原理如图C4-4-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i4" />
                 </div>
             </p>
@@ -273,7 +273,7 @@
             <p class="answer">（7）A （8）B</p>
             <h4 class="q">【问题4】（2分）</h4>
             <p class="question">为了在Outlook Express中使用安全电子邮件技术必须安装和配置数字证书。甲在图C4-4-2所示的对话框中如何配置，方能在他发送的所有电子邮件中均添加数字签名？<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i5" />
                 </div>
             </p>
@@ -294,7 +294,7 @@
             <p class="p1">阅读下列说明，回答问题1至问题4，将解答填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2">图C4-5-1是某公司利用Internet建立的VPN。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i6" />
                 </div>
             </p>

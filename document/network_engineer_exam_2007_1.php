@@ -131,7 +131,7 @@
         <div class="block">
             <p class="question">某系统的进程状态转换如下图所示，图中1、2、3、4分别表示引起状态转换的不同原因，原因4表示 （9） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E6%9F%90%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BF%9B%E7%A8%8B%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E5%9B%BE%E4%B8%AD1%E3%80%812%E3%80%813%E3%80%814%E5%88%86%E5%88%AB%E8%A1%A8%E7%A4%BA%E5%BC%95%E8%B5%B7%E7%8A%B6%E6%80%81%E8%BD%AC%E6%8D%A2%E7%9A%84%E4%B8%8D%E5%90%8C%E5%8E%9F%E5%9B%A0%EF%BC%8C%E5%8E%9F%E5%9B%A04%E8%A1%A8%E7%A4%BA%20%EF%BC%889%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <p class="one-line-choice"><span class="number">（9）</span>
@@ -726,7 +726,7 @@
         </div>
         <div class="block">
             <p class="question">把IP网络划分成子网，这样做的好处是 （51） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E6%8A%8AIP%E7%BD%91%E7%BB%9C%E5%88%92%E5%88%86%E6%88%90%E5%AD%90%E7%BD%91%EF%BC%8C%E8%BF%99%E6%A0%B7%E5%81%9A%E7%9A%84%E5%A5%BD%E5%A4%84%E6%98%AF%20%EF%BC%8851%EF%BC%89%20%E3%80%82">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i2" />
             </div>
             <p class="one-line-choice"><span class="number">（51）</span>

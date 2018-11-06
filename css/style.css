@@ -390,11 +390,11 @@ li.topbar-nav-end{
     color: lime;
 }
 
-.img {
+.img-center {
     text-align: center;
 }
 
-.img img{
+.img-center img{
     width:100%;
     max-width:25em;
 }

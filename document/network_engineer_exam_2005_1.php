@@ -434,7 +434,7 @@
         </div>
         <div class="block">
             <p class="question">下图中画出曼彻斯特编码和差分曼彻斯特编码的波形图，实际传送的比特串为 （28） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%9B%BE%E4%B8%AD%E7%94%BB%E5%87%BA%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%BC%96%E7%A0%81%E5%92%8C%E5%B7%AE%E5%88%86%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%BC%96%E7%A0%81%E7%9A%84%E6%B3%A2%E5%BD%A2%E5%9B%BE%EF%BC%8C%E5%AE%9E%E9%99%85%E4%BC%A0%E9%80%81%E7%9A%84%E6%AF%94%E7%89%B9%E4%B8%B2%E4%B8%BA%20%EF%BC%8828%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <p class="one-line-choice"><span class="number">（28）</span>
@@ -504,7 +504,7 @@
         </div>
         <div class="block">
             <p class="question">在下图的网络配置中，总共有 （32） 个广播域， （33） 个冲突域。 <a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E5%9C%A8%E4%B8%8B%E5%9B%BE%E7%9A%84%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE%E4%B8%AD%EF%BC%8C%E6%80%BB%E5%85%B1%E6%9C%89%20%EF%BC%8832%EF%BC%89%20%E4%B8%AA%E5%B9%BF%E6%92%AD%E5%9F%9F%EF%BC%8C%20%EF%BC%8833%EF%BC%89%20%E4%B8%AA%E5%86%B2%E7%AA%81%E5%9F%9F%E3%80%82%20%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i2" />
             </div>
             <p class="one-line-choice"><span class="number">（32）</span>
@@ -530,7 +530,7 @@
         <div class="block">
             <p class="question">网络连接如下图所示，要使计算机能访问到服务器，在路由器R1中配置路由表<br />
                 的命令是 （34） 。 &emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%EF%BC%8C%E8%A6%81%E4%BD%BF%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%83%BD%E8%AE%BF%E9%97%AE%E5%88%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%9C%A8%E8%B7%AF%E7%94%B1%E5%99%A8R1%E4%B8%AD%E9%85%8D%E7%BD%AE%E8%B7%AF%E7%94%B1%E8%A1%A8%3Cbr/%3E%0A%E7%9A%84%E5%91%BD%E4%BB%A4%E6%98%AF%20%EF%BC%8834%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i3" />
             </div>
             <p class="choice header_choice false"><span class="number">（34） </span>A．R1(config)#iphostR 2202.116.45.110

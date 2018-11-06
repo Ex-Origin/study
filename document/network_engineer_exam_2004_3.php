@@ -264,7 +264,7 @@
         </div>
         <div class="block">
             <p class="question">下图所示的防火墙结构属于 （18） 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E9%98%B2%E7%81%AB%E5%A2%99%E7%BB%93%E6%9E%84%E5%B1%9E%E4%BA%8E%20%EF%BC%8818%EF%BC%89%20%E3%80%82">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img id="i1" />
             </div>
             <p class="choice header_choice false"><span class="number">（18） </span>A．简单的双宿主主机结构</p>

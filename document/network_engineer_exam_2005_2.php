@@ -28,11 +28,11 @@
             <h4 class="e">【说明】</h4>
             <p class="p2">
                 某公司已有一个100用户的有线局域网。由于业务的发展，现有的网络不能满足需求，需要增加40个用户的网络连接，并在公司客户接待室连接网络以满足合作伙伴实时咨询的需求。现结合公司的实际情况组建无线局域网，具体拓扑如图C2-1-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i1" />
                 </div>
                 图C2-1-1中PC1的无线网卡配置信息如图C2-1-2所示。
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i2" />
                 </div>
             </p>
@@ -67,7 +67,7 @@
             <h4 class="e">【说明】</h4>
             <p class="p2"> FTTx+LAN是实现宽带接入的常用方法，基本结构如图C2-2-1所示。
 
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
             </p>
@@ -91,11 +91,11 @@
             <p class="p2"> SSL（Secure Socket
                 Layer）是目前解决传输层安全问题的一个主要协议，其设计的初衷是基于TCP协议之上提供可靠的端到端安全服务，SSL的实施对于上层的应用程序是透明的。应用SSL协议最广泛的是HTTPS，它为客户浏览器和Web服务器之间交换信息提供安全通信支持，如图C2-3-1所示。图C2-3-2给出了IIS5.0
                 Web服务器软件中启用HTTPS服务之后的默认配置。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i4" />
                 </div>
                 图C2-3-1<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i5" />
                 </div>
                 图C2-3-2
@@ -126,7 +126,7 @@
             <h4 class="e">【说明】</h4>
             <p class="p2">
                 图C2-4-1是在网络中划分VLAN的连接示意图。VLAN可以不考虑用户的物理位置，而根据功能、应用等因素将用户从逻辑上划分为一个个功能相对独立的工作组，每个用户主机都连接在支持VLAN的交换机端口上，并属于某个VLAN。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i6" />
                 </div>
                 <h4 class="q">【问题1】（2分）</h4>
@@ -173,7 +173,7 @@
             <p class="p1">阅读以下说明，回答问题1～5，将解答填入答题纸对应的解答栏内。</p>
             <h4 class="e">【说明】</h4>
             <p class="p2"> 某局域网通过两个路由器划分为3个子网，拓扑结构和地址分配如图C2-5-1所示。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i7" />
                 </div>
             </p>

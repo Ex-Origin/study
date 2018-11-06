@@ -116,7 +116,7 @@
         <div class="block">
             <p class="question">页式虚拟存储系统的逻辑地址是由页号和页内地址两部分组成，地址变换过程如下图所示。假定页面的大小为8K，图中所示的十进制逻辑地址9612经过地址变换后，形成的物理地址a应为十进制（10）
                 。&emsp;<a class="baidu" target="_blank" href="https://www.baidu.com/s?wd=%E9%A1%B5%E5%BC%8F%E8%99%9A%E6%8B%9F%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F%E7%9A%84%E9%80%BB%E8%BE%91%E5%9C%B0%E5%9D%80%E6%98%AF%E7%94%B1%E9%A1%B5%E5%8F%B7%E5%92%8C%E9%A1%B5%E5%86%85%E5%9C%B0%E5%9D%80%E4%B8%A4%E9%83%A8%E5%88%86%E7%BB%84%E6%88%90%EF%BC%8C%E5%9C%B0%E5%9D%80%E5%8F%98%E6%8D%A2%E8%BF%87%E7%A8%8B%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E3%80%82%E5%81%87%E5%AE%9A%E9%A1%B5%E9%9D%A2%E7%9A%84%E5%A4%A7%E5%B0%8F%E4%B8%BA8K%EF%BC%8C%E5%9B%BE%E4%B8%AD%E6%89%80%E7%A4%BA%E7%9A%84%E5%8D%81%E8%BF%9B%E5%88%B6%E9%80%BB%E8%BE%91%E5%9C%B0%E5%9D%809612%E7%BB%8F%E8%BF%87%E5%9C%B0%E5%9D%80%E5%8F%98%E6%8D%A2%E5%90%8E%EF%BC%8C%E5%BD%A2%E6%88%90%E7%9A%84%E7%89%A9%E7%90%86%E5%9C%B0%E5%9D%80a%E5%BA%94%E4%B8%BA%E5%8D%81%E8%BF%9B%E5%88%B6%20%EF%BC%8810%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <p class="one-line-choice"><span class="number">（10）</span>
@@ -144,7 +144,7 @@
                 <p class="explain-header"> 试题解析：</p>
                 <p class="explain-content">
                     传输速率可参见下表：</p>
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i2" />
                 </div>
             </div>
@@ -384,7 +384,7 @@
         <div class="block">
             <p class="question">在Windows中运行 （29） 命令后得到如下图所示的结果，该命令的作用是 （30） 。&emsp;<a class="baidu" target="_blank"
                     href="https://www.baidu.com/s?wd=%E5%9C%A8Windows%E4%B8%AD%E8%BF%90%E8%A1%8C%20%EF%BC%8829%EF%BC%89%20%E5%91%BD%E4%BB%A4%E5%90%8E%E5%BE%97%E5%88%B0%E5%A6%82%E4%B8%8B%E5%9B%BE%E6%89%80%E7%A4%BA%E7%9A%84%E7%BB%93%E6%9E%9C%EF%BC%8C%E8%AF%A5%E5%91%BD%E4%BB%A4%E7%9A%84%E4%BD%9C%E7%94%A8%E6%98%AF%20%EF%BC%8830%EF%BC%89%20%E3%80%82%3Cbr/%3E%0A%C2%A7%C2%A7">百度</a></p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i3" />
             </div>
             <p class="one-line-choice"><span class="number">（29）</span>

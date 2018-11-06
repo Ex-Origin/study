@@ -296,7 +296,7 @@
             <p><span class="number">4. </span>画出向小根堆中加入数据4, 2, 5, 8, 3时，每加入一个数据后堆的变化。</p>
             <h4 style="color:red">答案：</h4>
             <p class="answer" onclick="document.getElementById('i1').style='width:100%;max-width:25em;'">如图</p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;display: none" id="i1" />
             </div>
         </div>

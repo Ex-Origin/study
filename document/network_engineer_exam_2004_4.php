@@ -28,7 +28,7 @@
             <p class="p2">
                 某公司规模扩大，既要考虑保证目前土建装修的效果不被破坏，又要满足网络扩容和企业工作实际需求，同时还要保证投资不要过大。经过深入分析和研究对比，决定采用无线局域网组网来解决网络扩容的问题，网络拓扑结构如图C1-1-1所示。<br />
                 §§</p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i1" />
             </div>
             <h4 class="q">【问题1】（3分）</h4>
@@ -57,7 +57,7 @@
             <h4 class="e">【说明】</h4>
             <p class="p2"> ADSL是接入Internet的一种宽带技术。图C1-2-1为一台带网卡的PC机采用ADSL接入Internet的网络结构图。<br />
                 §§</p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i2" />
             </div>
             <h4 class="q">【问题1】（4分）</h4>
@@ -89,13 +89,13 @@
             <h4 class="e">【说明】</h4>
             <p class="p2"> 在IMail管理器中，选中MailUser邮件主机，然后在它右边的面板中选中“General”选项卡，出现邮件主机的配置窗口如图C1-3-1所示。<br />
                 §§<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i3" />
                 </div>
                 如果在IMail管理器中，选中User1用户，然后在它右边的面板中选中“General”选项卡，则邮件主机用户的配置窗口如图C1-3-2所示。<br />
                 §§
             </p>
-            <div class="img">
+            <div class="img-center">
                 <img style="width:100%;max-width:25em;" id="i4" />
             </div>
             <h4 class="q">【问题1】（2分）</h4>
@@ -130,7 +130,7 @@
             <h4 class="e">【说明】</h4>
             <p class="p2">
                 网络解决方案如图C1-4-1所示。该网络原先使用的是国外品牌的交换机，随着网络规模的扩大，增添了部分国产品牌的交换机，交换机1至交换机5均是国产10M/100M自适应交换机，交换机6和交换机7是第三层交换机。<br />
-                <div class="img">
+                <div class="img-center">
                     <img style="width:100%;max-width:25em;" id="i5" />
                 </div>
                 该网络在运营过程中曾出现了下列故障：<br />
