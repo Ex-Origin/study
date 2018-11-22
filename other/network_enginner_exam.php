@@ -1,3 +1,6 @@
+<?php
+    include_once ('../waf.php');
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,6 +39,20 @@
             <li><a href="../../document/network_engineer_exam_2010_1.php">2010年上半年 网络工程师 上午试卷</a></li>
             <li><a href="../../document/network_engineer_exam_2018_1.php">2018年上半年 网络工程师 上午试卷</a></li>
         </ul>
+
+        <div class="card" style="margin-top:2em;">
+            <div class="card-header"><h2 style="text-align:center"><span class="badge badge-secondary">推荐APP</span></h2></div>
+            <div class="card-body">
+            <p class="card-text">
+                <h4 style="display:inline-block;margin-right:2em;"><span class="badge badge-success">软考助手</span></h4>
+                软考助手是一款非常实用的专为软考打造的应用软件。
+                有丰富的学习资源，海量真题模拟，支持模拟考试、顺序练习、章节练习、随机练习、
+                试题搜索等多种模式并实现了试题收藏、记录错题、试题用户分析等功能，
+                使您能在考前对以往的重点题、难题、错题反复练习。帮助你理清所有的思路，让你更好的学习哦！
+                各大应用商城都可下载。
+            </p>
+            </div>
+        </div>
     </div>
     <!-- <?php
     require ('../template/footer.php');

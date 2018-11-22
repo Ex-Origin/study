@@ -1,3 +1,6 @@
+<?php
+    include_once ('../waf.php');
+?>
 <!DOCTYPE html>
 <html>
 

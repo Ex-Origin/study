@@ -1,3 +1,6 @@
+<?php
+    include_once ('../waf.php');
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,6 +22,7 @@
         <h1 style="text-align:center">数据结构</h1>
         <ul class="container-nav">
             <li><a href="../../document/data_structure_exam_1.php">数据结构试卷（一）</a></li>
+            <li><a href="../../document/data_structure_exam_2.php">数据结构试卷（二）</a></li>
         </ul>
     </div>
     <!-- <?php
