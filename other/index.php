@@ -5,8 +5,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>数据结构</title>
+    <title>其他</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <?php
     require ('../template/source.php');
@@ -19,10 +18,9 @@
     require ('../template/header.php');
     ?> -->
     <div class="container">
-        <h1 style="text-align:center">数据结构</h1>
+        <h1 style="text-align:center">其他</h1>
         <ul class="container-nav">
-            <li><a href="../../document/data_structure_exam_1.php">数据结构试卷（一）</a></li>
-            <li><a href="../../document/data_structure_exam_2.php">数据结构试卷（二）</a></li>
+            <li><a href="../document/music_exam.php">音乐课期末笔记</a></li>
         </ul>
     </div>
     <!-- <?php

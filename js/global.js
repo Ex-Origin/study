@@ -42,8 +42,8 @@ $(document).ready(function () {
         $(this).children("table").addClass("table");
         $(this).children("table").addClass("table-bordered");
     });
-});
 
+});
 
 
 $( document ).ready(function() {

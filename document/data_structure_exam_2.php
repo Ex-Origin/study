@@ -1,5 +1,5 @@
 <?php
-    include_once ('../waf.php');
+include_once('../config.php');
 ?>
 <!DOCTYPE html>
 <html>
@@ -10,7 +10,7 @@
     <title>数据结构试卷（二）</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <?php
-        require('../template/source.php');
+        require(relative(__FILE__).'template/source.php');
         ?> -->
     <link rel="stylesheet" type="text/css" media="screen" href="../css/style.css" />
     <script src="../js/global.js"></script>
@@ -18,7 +18,7 @@
 
 <body>
     <!-- <?php
-        require('../template/header.php');
+        require(relative(__FILE__).'template/header.php');
         ?> -->
 
     <div class="container">
@@ -31,6 +31,13 @@
             <p class="choice false">(B)．线性表采用链式存储不必占用一片连续的存储空间</p>
             <p class="choice false">(C)．线性表采用链式存储便于插入和删除操作的实现</p>
             <p class="choice true">(D)．线性表采用顺序存储便于插入和删除操作的实现</p>
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">哈夫曼树是二叉树，且结点的度只有两种，一种是度为0的叶子节点，另一种则是度为2的内部结点，
+                    不存在度为1 的结点，根据二叉树的性质（好像是性质3）度为0的结点和度为2 的结点的关系:n0=n2+1很容易算出；
+                    叶子结点总数为m的哈夫曼树的总结点数为：2m-1
+                </p>
+            </div>
         </div>
         <div class="block">
             <p class="question"><span class="number">（2）</span>
@@ -49,6 +56,14 @@
             <p class="choice false">(B)．F-R</p>
             <p class="choice true">(C)．(R-F+M)％M</p>
             <p class="choice false">(D)．(F-R+M)％M</p>
+            <div class="explain">
+                <p class="explain-header"> 试题解析：</p>
+                <p class="explain-content">
+                    如果R&gt;=F, 那么中间一共有R-F那么多元素
+                    如果R&lt;F, 那么中间一共有 R+M-F那么多元素
+                    两种情况下，都等于 (R-F+M)%M
+                </p>
+            </div>
         </div>
         <div class="block">
             <p class="question"><span class="number">（4）</span>
@@ -291,7 +306,7 @@ void intersection(lklist *ha, lklist *hb, lklist *hc)
     </div>
 
     <!-- <?php
-        require('../template/footer.php');
+        require(relative(__FILE__).'template/footer.php');
         ?> -->
 
 </body>

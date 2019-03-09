@@ -1,5 +1,5 @@
 <?php
-    include_once ('../waf.php');
+    include_once ('../config.php');
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,7 +9,7 @@
     <title>2004年下半年 网络工程师 下午试卷</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <?php
-    require ('../template/source.php');
+    require (relative(__FILE__).'template/source.php');
     ?> -->
     <link rel="stylesheet" type="text/css" media="screen" href="../css/style.css" />
     <script src="../js/global.js"></script>
@@ -19,7 +19,7 @@
 
 <body>
     <!-- <?php
-    require ('../template/header.php');
+    require (relative(__FILE__).'template/header.php');
     ?> -->
 
     <div class="container">
@@ -175,7 +175,7 @@
 
 
     <!-- <?php
-    require ('../template/footer.php');
+    require (relative(__FILE__).'template/footer.php');
     ?> -->
 
 </body>
